@@ -1,0 +1,434 @@
+Name,User,Department,Manager,Mail
+"Clovis R. Maliska Jr.",coi,Presidência,coi,coi@esss.com
+"Marcus Reis",marcus,,marcus,marcus@esss.com
+"Rodrigo Ferraz",ferraz,"Business Development",mario,ferraz@esss.com
+"Rodrigo Tasca",tasca,"CAE Sales",virgilio,tasca@esss.com
+"Bruno Oliveira",bruno,"Energy Dev",ari,bruno@esss.com
+"Marcelo Kruger",kruger,"CAE Sales",virgilio,kruger@esss.com
+"Frederico Gendorf",fred,"Information Technology",brandt,fred@esss.com
+"Ricardo Barbosa Damian",ricardo,,,ricardo@esss.com.br
+"Fabiano Nunes Diesel",fabiano,"Services and Support",armando,fabiano@esss.com
+"Edson Tadeu M. Manoel",tadeu,"Energy Dev",sindym,tadeu@esss.com
+"Ari Schveitzer Junior",ari,"Energy Dev",marcelot,ari@esss.com
+"Bruno Alexandre Contessi",contessi,"Business Development",ferraz,contessi@esss.com
+"Karolline Ropelato",ropelato,"Services and Support",mario,ropelato@esss.com
+"Carlos Breviglieri Junior",carlos,,,carlos@esss.com.br
+"Regis Ataides",regis,,,regis@esss.com.br
+"Bernard Patury",bernard,,,bernard@esss.com.br
+"Clovis R. Maliska",profmaliska,,coi,profmaliska@esss.com
+"Giovanni de Morais Teixeira",giovanni,,,giovanni@esss.com.br
+"Daniel Bruno de Vasconcelos Ferreira da Silva",daniel.bruno,,,daniel.bruno@esss.com.br
+"Martin Poulsen Kessler",martin,iESSS,dylan,martin@esss.com
+"Vinicius Almeida Carlos",vcarlos,,,vcarlos@esss.com.br
+"Eduardo Guilhon Broering",eduardo,,,eduardo@esss.com.br
+"Alfredo Gay Neto",alfredo,,,alfredo@esss.com.br
+"Roberto Monteiro Basto da Silva",roberto,"Services and Support",armando,roberto@esss.com
+"Geraldo Severi Junior",geraldo,,,geraldo@esss.com.br
+"Carlos Vasquez Ojeda",cpvasquez,,,cpvasquez@esss.com.br
+"Daniel Schiochet Nasato",nasato,,,nasato@esss.com.br
+"Ivan Ivanovitsch Thesi Riagusoff",thesi,,,thesi@esss.com.br
+"Nicolino Foschini Neto",nicolino,,,nicolino@esss.com.br
+"Fernando Amaral Polastro",amaral,,,amaral@esss.com.br
+"Henrique Carlos Monteiro",henrique,,,henrique@esss.com.br
+"Armando Alvarez de Souza",armando,"Services and Support",ropelato,armando@esss.com
+"Renata Andréa Bampa Silva",renatabs,,,renatabs@esss.com.br
+"Antonio Carlos Bandeira Guimarães Neto",antonio.carlos,,,antonio.carlos@esss.com.br
+"Andrés González",andres.gonzalez,,,andres.gonzalez@esss.com.br
+"Maira Amanda Vargas Avila",maira,,,maira@esss.com.br
+"Victor Kanehiro Arume de Souza",victor.souza,"Services and Support",armando,victor.souza@esss.com
+"Jaqueline Dias Mariscal",jaqueline,,,jaqueline@esss.com.br
+"Vitor Lopes Pereira",vitor.pereira,,,vitor.pereira@esss.com.br
+"Guilherme Fortes Tondello",tondello,,,tondello@esss.com.br
+"Douglas Gullo Mendonça Lins",douglas,,,douglas@esss.com.br
+"Jaime Ambrus",jaime,"Energy Dev",ari,jaime@esss.com
+"Antonio Samel",asamel,,,asamel@esss.com.br
+"Rosimeire Marques",rosi,,,rosi@esss.com.br
+"Alejandro Fanjul",alejandro,,,alejandro@esss.com.br
+"Hugo Bottino",hugo,,,hugo@esss.com.br
+"Karina Fasolin",karina,"Energy Dev",koliveira,karina@esss.com
+"Márcio Roberto da Silva",marcios,BUSOP,mario,marcios@esss.com
+"Caroline Rodrigues Doerner",carolined,,,carolined@esss.com.br
+"Clayton Bonelli",bonelli,,,bonelli@esss.com.br
+"Pedro Henrique Ramos Ribeiro",ribeiro,,,ribeiro@esss.com.br
+"Leandro Alberto Percebon",percebon,,,percebon@esss.com.br
+"Thiago Koichi Anzai",anzai,,,anzai@esss.com.br
+"Alexandre Peçanha",alexpec,,,alexpec@esss.com.br
+"Adriano Gonçalves",adriano,,,adriano@esss.com.br
+"Esteban Gonzalez Garcia",esteban.gonzalez,,,esteban.gonzalez@esss.com.br
+"Daniel Luís Boniati",boniatti,"CAE Sales",virgilio,boniatti@esss.com
+"Benjamin Buteler",benjamin.buteler,"Commercial Ansys",mario,benjamin.buteler@esss.com
+"Fabiola Justine Wollinger",fabiola,,,fabiola@esss.com.br
+"Juliano Guimarães Tobias",tobias,,,tobias@esss.com.br
+"Daniel Vasconcelos",daniel.vasconcelos,,,daniel.vasconcelos@esss.com.br
+"Sara Costa",sara.costa,,,sara.costa@esss.com.br
+"Rodrigo Araujo Cardoso Dias",rodrigo.dias,,,rodrigo.dias@esss.com.br
+"Ronélia Martins",ronelia,,,ronelia@esss.com.br
+"Dianeclei Silva Avila Ramos",diane.ramos,"Human Resources",claudiaquezada,diane.ramos@esss.com
+"Andre Luis Rossa",arossa,"Energy Dev",koliveira,arossa@esss.com
+"Andrés Horacio Liberatto",andres.horacio,,,andres.horacio@esss.com.br
+"Amanda Henriques Leite Mattos",amanda,,,amanda@esss.com.br
+"Rafaela Menezes Calabrio",rafaela,,,rafaela@esss.com.br
+"Tomas Catena",tomas.catena,,,tomas.catena@esss.com.br
+"Max Moacir Gonçalves de Melo",max.moacir,,,max.moacir@esss.com.br
+"Juan Sebastian Tello Cano",juan.tello,,,juan.tello@esss.com.br
+"Carlos Newmar Donatti",newmar,"Energy Dev",koliveira,newmar@esss.com
+"Maria Del Pilar Castellano Garzón",pilar.castellano,"Administrative Financial",fcruz,pilar.castellano@esss.com
+"Fernanda Pereira",fpereira,,,fpereira@esss.com.br
+"Lucas Camargo Geraldo",camargo,Marketing,marcus,camargo@esss.com
+"Jose Ignacio Aguiar",aguiar,,,aguiar@esss.com.br
+"Geraldo Luis Brandt",brandt,"Information Technology",coi,brandt@esss.com
+"Maira Gomes Prestes",maira.prestes,,,maira.prestes@esss.com.br
+"Marco Aurélio Rodrigues de Paula",marco.rodrigues,,,marco.rodrigues@esss.com.br
+"Daniela Carrieri",daniela,,,daniela@esss.com.br
+"Rafael March Castaneda Neto",march,,,march@esss.com.br
+"Rafael Francisco Simoes de Oliveira",rafael.oliveira,,,rafael.oliveira@esss.com.br
+"Suellen Mello Costa",suellen,,,suellen@esss.com.br
+"Ana Paula Bechauser de Medeiros",ana.medeiros,,,ana.medeiros@esss.com.br
+"Victoria Laura Alvarez Uliarte",victoria.alvarez,,,victoria.alvarez@esss.com.br
+"Cynthia Odette Landaeta Canete",cynthia.landaeta,,,cynthia.landaeta@esss.com.br
+"Alvaro Luiz Ribeiro Sarmet Moreira Smiderle",alvaro,,,alvaro@esss.com.br
+"Fernando May Rengel",frengel,,,frengel@esss.com.br
+"Gaston Michelotti Diaz",gaston,,,gaston@esss.com.br
+"Michel de Oliveira Minichiello",michel,,,michel@esss.com.br
+"Gaston Santos Cruz Carlin",gsantos,Channel,arturo,gsantos@esss.com
+"Joseph Richard Pinheiro de Carvalho",joseph,,,joseph@esss.com.br
+"Yan Barboza Bastos",yanbb,,,yanbb@esss.com.br
+"Viviane Mosqueira Bastos",vivianemb,,,vivianemb@esss.com.br
+"Vinicius Girardi Silva",viniciusgs,"Energy Industry Technology",marcelot,viniciusgs@esss.com
+"Fernanda Cavalli Schmitt",fernandacs,,,fernandacs@esss.com.br
+"Wilson Valente Junior",valente,,,valente@esss.com.br
+"Miguel Hernan Soto Rubio",msoto,,,msoto@esss.com.br
+"Fabio Saltara",saltara,,,saltara@esss.com.br
+"Lucrecia Maria Allende Nores",lucrecia,,,lucrecia@esss.com.br
+"Karen Cristina Plaza Garrido",karenp,,,karenp@esss.com.br
+"Isabela Fernandes Lopes",isabela,,,isabela@esss.com.br
+"Andressa Ribeiro de Melo",andressa.melo,,,andressa.melo@esss.com.br
+"Roseli Aparecida Lara",roseli,,,roseli@esss.com.br
+"Marcus Valério Bittar",bittar,,,bittar@esss.com.br
+"Carlos Andres Manquecoi Rozas",cmanquecoi,,,cmanquecoi@esss.com.br
+"Roberto Franceschi Pineroli",rpineroli,,,rpineroli@esss.com.br
+"Lucas Bandeira",bandeira,,,bandeira@esss.com.br
+"Estephany Werneck de Menezes",werneck,,,werneck@esss.com.br
+"Gustavo Maciulis Dip",gustavod,,,gustavod@esss.com.br
+"Pamela Moreno Alvarado",pmoreno,,,pmoreno@esss.com.br
+"Rodrigo Garcia Madrid",rgarcia,,,rgarcia@esss.com.br
+"Gastón Corti",corti,,,corti@esss.com.br
+"Martin Prusse",prusse,"Energy Dev",ari,prusse@esss.com
+"Liliane Costa de Carvalho",liliane,,,liliane@esss.com.br
+"Flávia Machado Martins",flavia,Finance,tatianep,flavia@esss.com
+"Francielle Camila Bosquetti",francielle,,,francielle@esss.com.br
+"Mariano Alberto Gallo",mariano,,,mariano@esss.com.br
+"Fernanda Grazielle Cruz",fcruz,Finance,coi,fcruz@esss.com
+"Dayvid de Melo Britto",dayvid,"Information Technology",brandt,dayvid@esss.com
+"Ricardo Klein",dieison,Finance,dieison,dieison@esss.com
+"Gabriela Pereira Martins",gabriela,,,gabriela@esss.com.br
+"Rafael Vetturazzi",rafaelv,"Business Development",ferraz,rafaelv@esss.com
+"Rafael Duarte Nepomuceno",rafaeldn,,,rafaeldn@esss.com.br
+"Oswaldo Urbani Filho",oswaldo,,,oswaldo@esss.com.br
+"Erick Morales Quezada",erick,,,erick@esss.com.br
+"Javier Nunez Mussa",javier,,,javier@esss.com.br
+"Gisele Bege",gisele,,,gisele@esss.com.br
+"Henrique José Ferreira da Costa",hcosta,,,hcosta@esss.com.br
+"Joel Sanvezzo Junior",joel,,,joel@esss.com.br
+"Fernanda Taques",ftaques,Finance,flavia,ftaques@esss.com
+"Enio Tsutomu Hayashi",enio,"Energy Dev",ari,enio@esss.com
+"José Anchieta Junior",anchieta,,,anchieta@esss.com.br
+"Erika Andrea Torres Rivera",erika,Academic,cgarrido,erika@esss.com
+"Samuel Ernesto Diaz",samuel,,,samuel@esss.com.br
+"John Hough",john,,,john@esss.com.br
+"Valentina Paz Anabalon Gallardo",valentina,,,valentina@esss.com.br
+"Julia Teodoro da Silva Tholl",julia,,,julia@esss.com.br
+"Raphael Pádua Santos",raphaelps,,,raphaelps@esss.com.br
+"Arianne Madureira Barcelos",arianne,,,arianne@esss.com.br
+"Wesley Masato Oda do Nascimento",wesley,"Information Technology",brandt,wesley@esss.com
+"DIEGO GOMEZ PINCHEIRA",dgomez,,,dgomez@esss.com.br
+"Luiz Amaral",luiz,"CAE Sales",virgilio,luiz@esss.com
+"Leonardo Favaretto Trombetta",leonardoft,,,leonardoft@esss.com.br
+"Bianca de Pley Almeida Teixeira",bianca,"Services and Support",armando,bianca@esss.com
+"Hotton Feliciano Soares",hotton,,,hotton@esss.com.br
+"Michael Sincleair",michael,,,michael@esss.com.br
+"Alexandre Borges Ramos",borges,,,borges@esss.com.br
+"Elisângela da Silva Gomes",elisangela,Finance,flavia,elisangela@esss.com
+"Angelica do Amaral",angelica,Finance,flavia,angelica@esss.com
+"Camila Batisti",cbatisti,,,cbatisti@esss.com.br
+"Cristina Schimidt Sitta",cristina,,,cristina@esss.com.br
+"Fabio Rodrigues Gonçalves da Silva",frodrigues,"Energy Industry Technology",viniciusgs,frodrigues@esss.com
+"Maycon Vieira dos Santos",maycon,"Energy Services",marcelot,maycon@esss.com
+"Dylan Cichella Burigo",dylan,iESSS,marcus,dylan@esss.com
+"Vinicius Rossato",rossato,,,rossato@esss.com.br
+"Rocio Caparrós Simón",rcaparros,"Commercial Ansys",mario,rcaparros@esss.com
+"Mario Sofia",mario,"Commercial Ansys",marcus,mario@esss.com
+"Raphael David Aquilino Bacchi",raphael,"Services and Support",ropelato,raphael@esss.com
+"Carlos Moreno",moreno,"Information Technology",brandt,moreno@esss.com
+"Rodrigo Fogaça Teodoro dos Reis",fogaca,"Business Development",ferraz,fogaca@esss.com
+"Gustavo Gondran Ribeiro",gribeiro,"Energy Dev",ari,gribeiro@esss.com
+"Carlos Andrés Olivares Garrido",cgarrido,Academic,mario,cgarrido@esss.com
+"Leonardo Iri Nicola Cristofari Rosenbach",rosenbach,"Energy Dev",cristianov,rosenbach@esss.com
+"Lucas Vinicius Amaral de Oliveira",loliveira,"Energy Dev",sindym,loliveira@esss.com
+"Henrique Angelo Zanini Paim",angelo,"Information Technology",brandt,angelo@esss.com
+"Giovanna Calixto Faraco",giovanna,Finance,flavia,giovanna@esss.com
+"Renan Schwinden",renan,Channel,arturo,renan@esss.com
+"Israel Alfredo Marino Navas",israel,"Services and Support",ropelato,israel@esss.com
+"Alexandre Barbosa Bruno",abarbosa,"Energy Dev",ari,abarbosa@esss.com
+"Caroline de Carvalho Rocha",caroliner,Marketing,sandrops,caroliner@esss.com
+"Diego Tavares Volpatto",diego,"Energy Dev",sindym,diego@esss.com
+"William Pereira",wpereira,"Energy Dev",sindym,wpereira@esss.com
+"Carolina Barreto",cbarreto,"Energy Industry Technology",viniciusgs,cbarreto@esss.com
+"Gabriel Cerqueira Gonçalves",cgoncalves,"Services and Support",armando,cgoncalves@esss.com
+"Igor Feliciano da Costa",igorfc,"Business Development",ferraz,igorfc@esss.com
+"Carlos Eduardo Ehmke Agra",ehmke,"Services and Support",igorfc,ehmke@esss.com
+"Victor Hugo Ribeiro Carriço",victorhugo,"Energy Dev",koliveira,victorhugo@esss.com
+"Rodrigo Peralta Muniz Moreira",peralta,"Services and Support",armando,peralta@esss.com
+"Alvaro Pablo Pereira",alvarop,"Commercial Ansys",jviot,alvarop@esss.com
+"Bruno Mendes de Souza",brunom,"Energy Dev",cristianov,brunom@esss.com
+"Guilherme Campagner Carvalho",gcarvalho,Marketing,sandrops,gcarvalho@esss.com
+"Marcello Henrique Garcia de Freitas",marcello,Marketing,camargo,marcello@esss.com
+"Gabriel Mafra de Faria",gfaria,"Services and Support",armando,gfaria@esss.com
+"Tassia Mohr",tassia,Marketing,sandrops,tassia@esss.com
+"Laura Rivera",igmasa,"Administrative Financial",fcruz,igmasa@esss.co
+"Rafael Pereira do Carmo",rafaelc,"Energy Dev",sindym,rafaelc@esss.com
+"Victoria Laureano Zorat",vzorat,BUSOP,marcios,vzorat@esss.com
+"Tiago Gonçalves Faria",tfaria,iESSS,dylan,tfaria@esss.com
+"Marcelo Da Silva Enes",menes,"Human Resources",diane.ramos,menes@esss.com
+"Ivana Laura Turelli",ivanat,"Administrative Financial",pilar.castellano,ivanat@esss.com
+"Joana Ventura Da Silva",joana,iESSS,dylan,joana@esss.com
+"Victor Gabriel Oliveira Ribeiro",vribeiro,Finance,rperes,vribeiro@esss.com
+"Felipe Targa",felipet,"Energy Industry Technology",viniciusgs,felipet@esss.com
+"Aurélio Millen De Castro",aurelio,"Energy Industry Technology",cbarreto,aurelio@esss.com
+"Henrique Mayer",hmayer,"Energy Dev",ari,hmayer@esss.com
+"Michel Igor Da Conceição De Lima",mlima,"Information Technology",brandt,mlima@esss.com
+"Cristiano Shuji Shimada Rigo",crigo,"Business Development",ferraz,crigo@esss.com
+"Cauê Baasch De Souza",caue,"Energy Dev",ari,caue@esss.com
+"André Cotrim Dos Santos Gomes",acotrim,"Information Technology",brandt,acotrim@esss.com
+"Arturo De Moraes Ortola",arturo,Channel,mario,arturo@esss.com
+"Ana Claudia Andrade Alves",anaandrade,"Energy Industry Technology",cbarreto,anaandrade@esss.com
+"José Carlos Ignacio Gonçalves Zart",jzart,"CAE Sales",virgilio,jzart@esss.com
+"Fabíola Santos Soares",fabiolass,Marketing,sandrops,fabiolass@esss.com
+"José Virgilio Rocca De Almeida",virgilio,"CAE Sales",mario,virgilio@esss.com
+"Eraldo Silva De Souza Júnior",eraldo,"Commercial Ansys Inside Sales",mario,eraldo@esss.com
+"Isabella Gallinari Cavalcante",igallinari,"Human Resources",claudiaquezada,igallinari@esss.com
+"Izabella Patrícia Borges Spoladore",spoladore,"Energy Industry Technology",frodrigues,spoladore@esss.com
+"Rafael Joaquim Alves",rafaeljalves,"Energy Dev",sindym,rafaeljalves@esss.com
+"Ellen Mariana De Souza Dias",ellen,iESSS,dylan,ellen@esss.com
+"Christian Baggio",christian,Academic,cgarrido,christian@esss.com
+"Rodrigo Ramón Velazquez",rvelazquez,"Services and Support",armando,rvelazquez@esss.com
+"Jean Carlos Coelho",coelho,"Information Technology",brandt,coelho@esss.com
+"André Nuernberg Pavan",apavan,"Energy Dev",sindym,apavan@esss.com
+"Anderson Negrini Isotton",aisotton,"Information Technology",brandt,aisotton@esss.com
+"Fernando Nunes Inserra",finserra,iESSS,dylan,finserra@esss.com
+"Diego Alberto Rendón Carreón",dcarreon,"Commercial Ansys",atzinmendoza,dcarreon@esss.com
+"Mayara Da Mata Moraes",mayara,BUSOP,marcios,mayara@esss.com
+"Marcelo Tonetti",marcelot,"Energy Sales",coi,marcelot@esss.com
+"Raphael Rodrigues Kneipp",kneipp,"CAE Sales",virgilio,kneipp@esss.com
+"Antonio Marinho Barbosa Neto",antonio,"Energy Dev",sindym,antonio@esss.com
+"Lucas Vinicius Batista Leite",lucasl,"Energy Dev",sindym,lucasl@esss.com
+"Laiane Araújo Andrade",laianea,"Energy Industry Technology",marcelot,laianea@esss.com
+"Cristiano Verona",cristianov,"Energy Dev",ari,cristianov@esss.com
+"Lauro Augusto Soares Rezende",lauroasr,"Energy Dev",koliveira,lauroasr@esss.com
+"Hendrik Gerard Johan Jennen",hendrik,"Energy Dev",sindym,hendrik@esss.com
+"Gustavo Paim Berned",gustavopb,"Energy Dev",ari,gustavopb@esss.com
+"André Luís Marques Rodrigues",andrelmr,"Energy Dev",koliveira,andrelmr@esss.com
+"Jaime Nunes Leal",jaimenl,"Energy Dev",cristianov,jaimenl@esss.com
+"Gabriel Felipe De Oliveira Antão",gabrielfoa,"Energy Dev",cristianov,gabrielfoa@esss.com
+"Nicholas Otero Juliano",nicholas,"Business Development",ferraz,nicholas@esss.com
+"Aline Esteve Soares",alines,Academic,cgarrido,alines@esss.com
+"Gabriel Merhy De Oliveira",merhy,"Energy Dev",koliveira,merhy@esss.com
+"Mario Antonio Di Capua Hidalgo",mdicapua,"Services and Support",ropelato,mdicapua@esss.com
+"Florencia Mazzola",florencia,"Administrative Financial",fcruz,florencia@esss.com
+"Rodrigo De Sena Ramos",rodrigosr,"Information Technology",brandt,rodrigosr@esss.com
+"Roger Da Silva Lauermann",rogersl,"Information Technology",brandt,rogersl@esss.com
+"Vitória Araújo Muller",vmuller,iESSS,dylan,vmuller@esss.com
+"Felipe Mânica Herzog",fherzog,Compliance,mario,fherzog@esss.com
+"Luciano Da Silva França Filho",luciano,Channel,arturo,luciano@esss.com
+"Leonardo Nascimento Dos Santos",lsantos,"Information Technology",brandt,lsantos@esss.com
+"Kelly Da Silva",ksilva,Finance,flavia,ksilva@esss.com
+"George Loureiro Mendes",george,"Energy Industry Technology",frodrigues,george@esss.com
+"Lucas Gabriel De Souza",lsouza,"Energy Dev",cristianov,lsouza@esss.com
+"Suenny Costa Firmino",suenny,iESSS,dylan,suenny@esss.com
+"Anderson Rossi Florencio",florencio,"Commercial Ansys Inside Sales",eraldo,florencio@esss.com
+"Andrea Zulay Martínez Babilonia",andream,"Energy Industry Technology",felipet,andream@esss.com
+"Sofía Acuña Pazmiño",pazmino,Marketing,camargo,pazmino@esss.com
+"Cesar Yukishigue Kiyono",ckiyono,"Energy Dev",cristianov,ckiyono@esss.com
+"Arthur Mesquita Pickcius",apickcius,"Energy Dev",sindym,apickcius@esss.com
+"Sindy Coelho Müller",sindym,"Energy Dev",ari,sindym@esss.com
+"Gerson Francisco Da Silva Junior",gersonfsj,"Energy Dev",sindym,gersonfsj@esss.com
+"Vinícius Guimarães Monteiro",vmonteiro,"Business Development",ferraz,vmonteiro@esss.com
+"Leonardo Medeiros Segrilo",lsegrilo,"Business Development",ferraz,lsegrilo@esss.com
+"Diego Pereira Da Mota",diegom,"CAE Sales",virgilio,diegom@esss.com
+"Camilo Matías Díaz Alarcón",calarcon,"Services and Support",ropelato,calarcon@esss.com
+"Julio Picinato Orssatto",jorsatto,"Energy Services",maycon,jorsatto@esss.com
+"Felipe Lemos Breuil",fbreuil,"Energy Dev",cristianov,fbreuil@esss.com
+"Gabriela Lozano Sanchez",gabrielals,"Commercial Ansys Inside Sales",eraldo,gabrielals@esss.com
+"Sandro Paim Da Silva",sandrops,Marketing,camargo,sandrops@esss.com
+"Thiago Schmoeller",thiagos,"Services and Support",igorfc,thiagos@esss.com
+"Thales Carl Lavoratti",thalescl,"Energy Dev",ari,thalescl@esss.com
+"Matheus Conceição Carmo Ferreira Guimarães",mguimaraes,"Energy Dev",koliveira,mguimaraes@esss.com
+"Eliézer Justino Do Carmo",eliezer,"Energy Dev",cristianov,eliezer@esss.com
+"Léa Chantal Décultot",ldecultot,Academic,cgarrido,ldecultot@esss.com
+"Hariel Udi Santana Mendes",harielm,"Energy Services",maycon,harielm@esss.com
+"Daniela Petrucci",dpetrucci,BUSOP,marcios,dpetrucci@esss.com
+"Luca Baccani",lbaccani,BUSOP,marcios,lbaccani@esss.com
+"Silvia Di Rosa",sdirosa,"Services and Support",marcios,sdirosa@esss.com
+"Pilar Murillo",pmurillo,"Administrative Financial",fcruz,pmurillo@esss.com
+"Ricardo Beckert",rbeckert,"Energy Dev",sindym,rbeckert@esss.com
+"Mônica Back Westrupp",monica,"Human Resources",claudiaquezada,monica@esss.com
+"Teresa Muñoz",teresa,"Commercial Ansys",benjamin.buteler,teresa@esss.com
+"Bruno Mota Puls Da Silveira",brunop,iESSS,dylan,brunop@esss.com
+"José Leandro Silva Serrano",leandross,"CAE Sales",virgilio,leandross@esss.com
+"Caio Silva Ramos",caiosr,"Energy Dev",ari,caiosr@esss.com
+"Ilaria Giacopuzzi",igiacopuzzi,BUSOP,marcios,igiacopuzzi@esss.com
+"André Garcia Cunha Filho",andreg,"Services and Support",armando,andreg@esss.com
+"Barbara Manzoni",bmanzoni,Marketing,camargo,bmanzoni@esss.com
+"Alberto Didonato",adidonato,"CAE Sales",bbelloli,adidonato@esss.com
+"Andrea Bresciani",abresciani,Academic,cgarrido,abresciani@esss.com
+"Benedetto Belloli",bbelloli,"Commercial Ansys",mario,bbelloli@esss.com
+"Bruno Dreina",bdreina,"Commercial Ansys",bbelloli,bdreina@esss.com
+"Fabio Bernasconi",fbernasconi,"CAE Sales",bbelloli,fbernasconi@esss.com
+"Luca Raffin",lraffin,"CAE Sales",bbelloli,lraffin@esss.com
+"Silvia Palmieri",spalmieri,"Commercial Ansys",lziliani,spalmieri@esss.com
+"Fernanda Mendonça Santos",fsantos-ext,"Energy Dev",cristianov,fsantos-ext@esss.com
+"Luca Brugali",lbrugali,"Business Development",mario,lbrugali@esss.com
+"Livio Airaudi",lairaudi,"Business Development",lbrugali,lairaudi@esss.com
+"Carlo Strada",cstrada,"Business Development",lbrugali,cstrada@esss.com
+"Fabio Villa",fvilla,"Business Development",lbrugali,fvilla@esss.com
+"Andrea Serra",aserra,"Business Development",lbrugali,aserra@esss.com
+"Emiliano D Alessandro",edalessandro,"Business Development",lbrugali,edalessandro@esss.com
+"Fabio Rossetti",frossetti,"Business Development",lbrugali,frossetti@esss.com
+"Mariarita De Rinaldis",mderinaldis,"Business Development",lbrugali,mderinaldis@esss.com
+"Valerio Caputo",vcaputo,"Business Development",lbrugali,vcaputo@esss.com
+"Nicola Cafariello",ncafariello,Marketing,camargo,ncafariello@esss.com
+"Rodrigo Corrêa Góes",rgoes-ext,"Energy Dev",cristianov,rgoes-ext@esss.com
+"Isabela Devens Vieira",isabeladv,Finance,rperes,isabeladv@esss.com
+"Jonela Harizi",jharizi,"Administrative Financial",fcruz,jharizi@esss.com
+"Julia Valentini Carenzi Da Silva",juliac,"Energy Services",maycon,juliac@esss.com
+"Elton Jorge Bragança Ribeiro",elton,"Energy Services",maycon,elton@esss.com
+"Giovanni Oteri",goteri,"Information Technology",brandt,goteri@esss.com
+"Rodrigo Jesus Espi Garcia",rjespi,"Services and Support",ropelato,rjespi@esss.com
+"Matteo Angelino",mangelino,"Business Development",lbrugali,mangelino@esss.com
+"Joana Julia Müller",jmuller,"Energy Industry Technology",viniciusgs,jmuller@esss.com
+"Luigi Varriale",lvarriale,"Commercial Ansys",lziliani,lvarriale@esss.com
+"Mikel Sevilla Aguirre",msevilla,"Commercial Ansys",jviot,msevilla@esss.com
+"Nuno Cláudio Da Silva Ferreira",nferreira,"Commercial Ansys",rcaparros,nferreira@esss.com
+"Lucas Da Silva Carvalho",lucasc,Academic,cgarrido,lucasc@esss.com
+"Leonardo Milano",lmilano,"Commercial Ansys",lziliani,lmilano@esss.com
+"Alejandro Dominguez Costa",acosta,"Services and Support",ropelato,acosta@esss.com
+"Rodrigo De Oliveira Neto",rneto,"Energy Dev",ari,rneto@esss.com
+"Daniel Oscar Schütz",dschutz,Finance,flavia,dschutz@esss.com
+"Catherine Milanez",cmilanez,BUSOP,marcios,cmilanez@esss.com
+"Ricardo Peng Yee",ryee,"Services and Support",armando,ryee@esss.com
+"Yan Caires Capellaro",ycapellaro,"Energy Services",maycon,ycapellaro@esss.com
+"Fernanda Bazilio De Amorim",famorim,"Energy Services",maycon,famorim@esss.com
+"Aniello Apuzzo",aniellop,"Business Development",ferraz,aniellop@esss.com
+"Luis Anderson Calligaris",lcalligaris,"Business Development",ferraz,lcalligaris@esss.com
+"Heitor De Almeida Rodrigues",hrodrigues,iESSS,dylan,hrodrigues@esss.com
+"Artur Alexandre Faustino Bártolo",abartolo,Academic,cgarrido,abartolo@esss.com
+"Jonathan Claudio Silva Batista",jbatista,Finance,flavia,jbatista@esss.com
+"Alexandre De Castro Martins",amartins,"Energy Services",maycon,amartins@esss.com
+"Paulo Ricardo Moreira Rodrigues",prodrigues,"Energy Services",maycon,prodrigues@esss.com
+"Tiago Della Pozza",tpozza,iESSS,dylan,tpozza@esss.com
+"Carolina Trebien",carolinat,Marketing,sandrops,carolinat@esss.com
+"Guilherme Gomes De Mendonça Uchoa",guchoa,"Energy Services",maycon,guchoa@esss.com
+"Barbara Gonçalves Daud Meneguesso",meneguesso,"Energy Services",maycon,meneguesso@esss.com
+"Pedro Luiz Zacheu De Souza",pedrozs,iESSS,dylan,pedrozs@esss.com
+"Lourdes Priscila Almonacid Campillay",almonacid,Finance,pilar.castellano,almonacid@esss.com
+"Gabriel Bastos De Morais",gmorais,Academic,cgarrido,gmorais@esss.com
+"André Lourenço Nogueira",anogueira,iESSS,dylan,anogueira@esss.com
+"Enrico Lopez Borges De Carvalho",ecarvalho,"CAE Sales",virgilio,ecarvalho@esss.com
+"Alberto Serrano Bustamante",aserrano,"Commercial Ansys",jviot,aserrano@esss.com
+"Lucile Corrand",lcorrand,Marketing,camargo,lcorrand@esss.com
+"Jorge Vázquez Arias",jvazquez,"Services and Support",ropelato,jvazquez@esss.com
+"Antonio Alonso López",aalonso,"Services and Support",ropelato,aalonso@esss.com
+"Diana Mateo Martín",dmateo,"Commercial Ansys Inside Sales",mario,dmateo@esss.com
+"Pablo Gabella Domínguez",pgabella,Academic,cgarrido,pgabella@esss.com
+"Joaquin Namihas Lastra",jnamihas,"Commercial Ansys",jviot,jnamihas@esss.com
+"Javier Miguel Muñoz Martin",jmmunoz,"Services and Support",ropelato,jmmunoz@esss.com
+"Alberto López Gallego",alopez,"Services and Support",ropelato,alopez@esss.com
+"Nuria Nino Farinas",nnino,"Commercial Ansys",jviot,nnino@esss.com
+"Julio Cesar Grillo Brandão",jbrandao,"Energy Services",maycon,jbrandao@esss.com
+"Victor Matheus Augustinho Raupp",vraupp,"Services and Support",armando,vraupp@esss.com
+"Lucas Souza Vieira",lvieira,iESSS,dylan,lvieira@esss.com
+"Leonardo Gregório De Almeida",lalmeida,"Energy Dev",sindym,lalmeida@esss.com
+"Flavio Montrone",fmontrone,"Commercial Ansys Inside Sales",mario,fmontrone@esss.com
+"Sheila Quesada Martínez",squesada,"Human Resources",tatianaplaza,squesada@esss.com
+"Felipe Augusto Lombardi Dos Santos Favero",fsantos,"Energy Services",maycon,fsantos@esss.com
+"João Victor Vettorazzo Costa",jcosta,iESSS,dylan,jcosta@esss.com
+"Alex José Elias",aelias,iESSS,dylan,aelias@esss.com
+"Thomas Gabriel Paiva Ribeiro",tribeiro,"Energy Services",maycon,tribeiro@esss.com
+"Pedro Alexandre Dias Moreira",pmoreira,"Commercial Ansys",rcaparros,pmoreira@esss.com
+"Gaetano Emiliano Guarino",gguarino,"Commercial Ansys",lziliani,gguarino@esss.com
+"Carina Silva Silva",csilva,BUSOP,marcios,csilva@esss.com
+"Stefano Licurgo Pietro Manzini",smanzini,"Commercial Ansys",bbelloli,smanzini@esss.com
+"Juliana Bittencourt",jbittencourt,Academic,cgarrido,jbittencourt@esss.com
+"Stefano Rinaldi",srinaldi,"Business Development",ferraz,srinaldi@esss.com
+"Giovanni Fazzone",gfazzone,"Services and Support",ropelato,gfazzone@esss.com
+"Gabriele Trono",gtrono,"Services and Support",ropelato,gtrono@esss.com
+"Vito Cicoira",vcicoira,"Business Development",ferraz,vcicoira@esss.com
+"Luca Ziliani",lziliani,"Commercial Ansys",bbelloli,lziliani@esss.com
+"Lucca Guimarães Fante",lfante,"Services and Support",armando,lfante@esss.com
+"Atzin Mendoza Macias",atzinmendoza,"Commercial Ansys",mario,atzinmendoza@esss.com
+"Alexandre Jodjahn Da Rocha",alexandrej,"Energy Sales",marcelot,alexandrej@esss.com
+"Rafaela Ferreira Da Silva",rafaelafs,"Energy Services",maycon,rafaelafs@esss.com
+"Clarissa Dantas Paula",cdantas,"Energy Services",maycon,cdantas@esss.com
+"Thauana Gomes Valdrez",tvaldrez,"Human Resources",claudiaquezada,tvaldrez@esss.com
+"Kelly Christiane Guimarães De Oliveira",koliveira,"Energy Dev",ari,koliveira@esss.com
+"Gabriel Enrique Santos Cinci Benedito",gbenedito,Finance,flavia,gbenedito@esss.com
+"Tatiane De Oliveira Pereira",tatianep,Finance,coi,tatianep@esss.com
+"Daniel Pedro Silva Graebin",dgraebin,iESSS,dylan,dgraebin@esss.com
+"Gabriel Ferreira Da Cruz",gcruz,"Human Resources",diane.ramos,gcruz@esss.com
+"Priscilla Pereira Rosa",priscillar,"BUSOP Dados",mario,priscillar@esss.com
+"Rachel Okinyo Okumu Oyugi",royugi,"Energy Dev",cristianov,royugi@esss.com
+"Agostino Conte",aconte,"Commercial Ansys",lziliani,aconte@esss.com
+"Pedro Augusto Bernades Simão",psimao,"Business Development",ferraz,psimao@esss.com
+"Ramiro Luiz Nunes",rnunes,"Energy Dev",koliveira,rnunes@esss.com
+"Jean Coelho",jcoelho,,brandt,jcoelho@esss.com
+"Lucia Cataldi",lcataldi,"Services and Support",ropelato,lcataldi@esss.com
+"Lorrane De Alkimim Oliveira",lalkimim,"Energy Dev",cristianov,lalkimim@esss.com
+"Ana Júlia Gomes De Souza",asouza,Marketing,sandrops,asouza@esss.com
+"Nícolas Lima Oliveira",noliveira,"Energy Dev",cristianov,noliveira@esss.com
+"Claudia Andrea Bravo Quezada",claudiaquezada,"Human Resources",coi,claudiaquezada@esss.com
+"Julio Cesar Nomelini",jnomelini,"Energy Dev",cristianov,jnomelini@esss.com
+"Ramon De Andrade Gonçalves",rgoncalves,Academic,cgarrido,rgoncalves@esss.com
+"Maria Luíza Farah",mfarah,iESSS,dylan,mfarah@esss.com
+"Adriano Matuck Sotos",asotos,"Energy Dev",koliveira,asotos@esss.com
+"Arthur Leal Porto",aporto,"Energy Industry Technology",maycon,aporto@esss.com
+"Mattia Guizzetti",mguizzetti,Marketing,camargo,mguizzetti@esss.com
+"Luiz Felipe De Ramos",lramos,"Services and Support",igorfc,lramos@esss.com
+"Fredy Alexander Roldan Figueredo",froldan,"Services and Support",ropelato,froldan@esss.com
+"Dênisson Lima Santos",dsantos,"Energy Services",maycon,dsantos@esss.com
+"Morgana Vittori",mvittori,Academic,cgarrido,mvittori@esss.com
+"Tiffany Cristine Franzoi",tfranzoi,"Energy Industry Technology",viniciusgs,tfranzoi@esss.com
+"Filipe Cardoso Simões Ferreira Neves",fneves,"Services and Support",ropelato,fneves@esss.com
+"Margherita Angelini",mangelini,"Services and Support",ropelato,mangelini@esss.com
+"Luca Mancinelli",lmancinelli,"CAE Sales",lziliani,lmancinelli@esss.com
+"André Romão De Oliveira",aoliveira,"Information Technology",brandt,aoliveira@esss.com
+"Jessica Caroline Delani",jdelani,"Human Resources",claudiaquezada,jdelani@esss.com
+"Suzan Viviane Nunes E Silva",ssilva,Finance,rperes,ssilva@esss.com
+"Maria Del Pilar Ruíz Jaramillo",mjaramillo,"Human Resources",claudiaquezada,mjaramillo@esss.com
+"Daniel Sá Barretto Prado Garcia",danielg,"Energy Dev",cristianov,danielg@esss.com
+"Patrizia Manenti",pmanenti,Finance,dieison,pmanenti@esss.com
+"Margherita Ghidini",mghidini,"Human Resources",mario,mghidini@esss.com
+"Tomás Selaibe Pires",tomasp,"Commercial Ansys Inside Sales",eraldo,tomasp@esss.com
+"Juan Pablo Silva Gutierrez",jpablo,"Inside Sales",eraldo,jpablo@esss.com
+"Raphael Peres Allemany Mingattos",rperes,Finance,fcruz,rperes@esss.com
+"Laura Cavagnoli",laurac,"Human Resources",diane.ramos,laurac@esss.com
+"Natan Kanitz",natank,"Energy Dev",sindym,natank@esss.com
+"Santiago Díaz",santiagod,"License Compliance",mario,santiagod@esss.com
+"Giacomo Di Biase",gbiase,"Services and Support",ropelato,gbiase@esss.com
+"Vinícius Gomes Palhares",vpalhares,"Business Development",contessi,vpalhares@esss.com
+"Suiane Trisch Schill",sschill,"CAE Sales",virgilio,sschill@esss.com
+"Rodrigo José Brasil Silva",rsilva,Marketing,sandrops,rsilva@esss.com
+"Elsin Johanna Cruz Galindo",ecruz,"Commercial Ansys",atzinmendoza,ecruz@esss.com
+"Jheferson Luis Bonilla Urrea",jbonilla,"Commercial Ansys Inside Sales",eraldo,jbonilla@esss.com
+"Deivis Arthur Vasquez Gamarra",dvasquez,"Commercial Ansys Inside Sales",eraldo,dvasquez@esss.com
+"Elisiane Terezinha Duarte",eduarte,"Commercial Ansys Inside Sales",eraldo,eduarte@esss.com
+"Gabriela Caro Lopez",gcaro,"Commercial Ansys",atzinmendoza,gcaro@esss.com
+"Luis Alberto Rodriguez Barboza",lrodriguez,"Services and Support",ropelato,lrodriguez@esss.com
+"Rafael Zanette Neves",rneves,"Services and Support",ropelato,rneves@esss.com
+"Bruno Alfonso Sebastián Eitel Olivares",beitel,"Ansys Sales",benjamin.buteler,beitel@esss.com
+"Hugo Cesar Lara Marcial",hlara,"Ansys TEC",ropelato,hlara@esss.com
+"Nicolly Ribeiro Duarte",nduarte,BUSOP,marcios,nduarte@esss.com
+"Giorgio Cavalieri",gcavalieri,"CAE Sales",virgilio,gcavalieri@esss.com
+"Pablo Cirera",pcirera,"Commercial Ansys Inside Sales",rcaparros,pcirera@esss.com
+"Ilaria Heikkila",lheikkila,"Commercial Ansys Inside Sales",ncafariello,lheikkila@esss.com
+"Sabrina De Oliveira Portal",soliveira,"Commercial Ansys Inside Sales",eraldo,soliveira@esss.com
+"Paulo Gustavo Melo Machado Leite",pleite,"Energy Dev",ari,pleite@esss.com

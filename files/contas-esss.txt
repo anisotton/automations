@@ -1,0 +1,2809 @@
+dn: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: coi
+displayName: Clovis R. Maliska Jr.
+departmentNumber: Presidência
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: coi@esss.com
+
+dn: uid=marcus,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: marcus
+mail: marcus@esss.com
+displayName: Marcus Reis
+manager: uid=marcus,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber::Vice Presidência
+
+dn: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ferraz
+mail: ferraz@esss.com
+displayName: Rodrigo Ferraz
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+
+dn: uid=tasca,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tasca
+mail: tasca@esss.com
+displayName: Rodrigo Tasca
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=bruno,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bruno
+displayName: Bruno Oliveira
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: bruno@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=kruger,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: kruger
+mail: kruger@esss.com
+displayName: Marcelo Kruger
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=fred,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fred
+mail: fred@esss.com
+displayName: Frederico Gendorf
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+
+dn: uid=ricardo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ricardo
+mail: ricardo@esss.com.br
+displayName: Ricardo Barbosa Damian
+
+dn: uid=fabiano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fabiano
+displayName: Fabiano Nunes Diesel
+departmentNumber: Services and Support
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: fabiano@esss.com
+
+dn: uid=tadeu,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tadeu
+displayName: Edson Tadeu M. Manoel
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: tadeu@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ari
+mail: ari@esss.com
+displayName: Ari Schveitzer Junior
+departmentNumber: Energy Dev
+manager: uid=marcelot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=contessi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: contessi
+mail: contessi@esss.com
+displayName: Bruno Alexandre Contessi
+departmentNumber: Business Development
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ropelato
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+displayName: Karolline Ropelato
+mail: ropelato@esss.com
+
+dn: uid=carlos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: carlos
+mail: carlos@esss.com.br
+displayName: Carlos Breviglieri Junior
+
+dn: uid=regis,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: regis
+mail: regis@esss.com.br
+displayName: Regis Ataides
+
+dn: uid=bernard,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bernard
+mail: bernard@esss.com.br
+displayName: Bernard Patury
+
+dn: uid=profmaliska,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: profmaliska
+mail: profmaliska@esss.com
+displayName: Clovis R. Maliska
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber::Outros 
+
+dn: uid=giovanni,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: giovanni
+mail: giovanni@esss.com.br
+displayName: Giovanni de Morais Teixeira 
+
+dn: uid=daniel.bruno,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: daniel.bruno
+mail: daniel.bruno@esss.com.br
+displayName: Daniel Bruno de Vasconcelos Ferreira da Silva
+
+dn: uid=martin,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: martin
+departmentNumber: iESSS
+displayName: Martin Poulsen Kessler
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: martin@esss.com
+
+dn: uid=vcarlos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vcarlos
+mail: vcarlos@esss.com.br
+displayName: Vinicius Almeida Carlos
+
+dn: uid=eduardo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: eduardo
+mail: eduardo@esss.com.br
+displayName: Eduardo Guilhon Broering
+
+dn: uid=alfredo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alfredo
+mail: alfredo@esss.com.br
+displayName: Alfredo Gay Neto
+
+dn: uid=roberto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: roberto
+mail: roberto@esss.com
+displayName: Roberto Monteiro Basto da Silva
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=geraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: geraldo
+mail: geraldo@esss.com.br
+displayName: Geraldo Severi Junior
+
+dn: uid=cpvasquez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Carlos Vasquez Ojeda
+mail: cpvasquez@esss.com.br
+uid: cpvasquez
+
+dn: uid=nasato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: nasato
+mail: nasato@esss.com.br
+displayName: Daniel Schiochet Nasato
+
+dn: uid=thesi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: thesi
+mail: thesi@esss.com.br
+displayName: Ivan Ivanovitsch Thesi Riagusoff
+
+dn: uid=nicolino,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: nicolino
+mail: nicolino@esss.com.br
+displayName: Nicolino Foschini Neto
+
+dn: uid=amaral,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: amaral
+mail: amaral@esss.com.br
+displayName: Fernando Amaral Polastro
+
+dn: uid=henrique,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: henrique
+mail: henrique@esss.com.br
+displayName: Henrique Carlos Monteiro
+
+dn: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: armando
+mail: armando@esss.com
+displayName: Armando Alvarez de Souza
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=renatabs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: renatabs@esss.com.br
+displayName: Renata Andréa Bampa Silva
+uid: renatabs
+
+dn: uid=antonio.carlos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: antonio.carlos
+mail: antonio.carlos@esss.com.br
+displayName: Antonio Carlos Bandeira Guimarães Neto
+
+dn: uid=andres.gonzalez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: andres.gonzalez
+mail: andres.gonzalez@esss.com.br
+displayName: Andrés González
+
+dn: uid=maira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: maira
+mail: maira@esss.com.br
+displayName: Maira Amanda Vargas Avila
+
+dn: uid=victor.souza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: victor.souza
+mail: victor.souza@esss.com
+displayName: Victor Kanehiro Arume de Souza
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=jaqueline,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jaqueline
+mail: jaqueline@esss.com.br
+displayName: Jaqueline Dias Mariscal
+
+dn: uid=vitor.pereira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vitor.pereira
+mail: vitor.pereira@esss.com.br
+displayName: Vitor Lopes Pereira
+
+dn: uid=tondello,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tondello
+mail: tondello@esss.com.br
+displayName: Guilherme Fortes Tondello
+
+dn: uid=douglas,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: douglas
+mail: douglas@esss.com.br
+displayName: Douglas Gullo Mendonça Lins
+
+dn: uid=jaime,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jaime
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Jaime Ambrus
+mail: jaime@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=asamel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: asamel
+mail: asamel@esss.com.br
+displayName: Antonio Samel
+
+dn: uid=rosi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rosi
+mail: rosi@esss.com.br
+displayName: Rosimeire Marques
+
+dn: uid=alejandro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alejandro
+mail: alejandro@esss.com.br
+displayName: Alejandro Fanjul
+
+dn: uid=hugo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hugo
+mail: hugo@esss.com.br
+displayName: Hugo Bottino
+
+dn: uid=karina,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: karina
+displayName: Karina Fasolin
+mail: karina@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: marcios
+mail: marcios@esss.com
+displayName: Márcio Roberto da Silva
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+
+dn: uid=carolined,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: carolined
+mail: carolined@esss.com.br
+displayName: Caroline Rodrigues Doerner
+
+dn: uid=bonelli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bonelli
+mail: bonelli@esss.com.br
+displayName: Clayton Bonelli
+
+dn: uid=ribeiro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ribeiro
+mail: ribeiro@esss.com.br
+displayName: Pedro Henrique Ramos Ribeiro
+
+dn: uid=percebon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: percebon
+mail: percebon@esss.com.br
+displayName: Leandro Alberto Percebon
+
+dn: uid=anzai,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: anzai
+mail: anzai@esss.com.br
+displayName: Thiago Koichi Anzai
+
+dn: uid=alexpec,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alexpec
+mail: alexpec@esss.com.br
+displayName: Alexandre Peçanha
+
+dn: uid=adriano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: adriano
+mail: adriano@esss.com.br
+displayName: Adriano Gonçalves
+
+dn: uid=esteban.gonzalez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: esteban.gonzalez
+mail: esteban.gonzalez@esss.com.br
+displayName: Esteban Gonzalez Garcia
+
+dn: uid=boniatti,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: boniatti
+mail: boniatti@esss.com
+displayName: Daniel Luís Boniati
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=benjamin.buteler,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: benjamin.buteler
+mail: benjamin.buteler@esss.com
+displayName: Benjamin Buteler
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=fabiola,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fabiola
+mail: fabiola@esss.com.br
+displayName: Fabiola Justine Wollinger
+
+dn: uid=tobias,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tobias
+mail: tobias@esss.com.br
+displayName: Juliano Guimarães Tobias
+
+dn: uid=daniel.vasconcelos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: daniel.vasconcelos
+mail: daniel.vasconcelos@esss.com.br
+displayName: Daniel Vasconcelos
+
+dn: uid=sara.costa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: sara.costa
+mail: sara.costa@esss.com.br
+displayName: Sara Costa
+
+dn: uid=rodrigo.dias,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rodrigo.dias
+mail: rodrigo.dias@esss.com.br
+displayName: Rodrigo Araujo Cardoso Dias
+
+dn: uid=ronelia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ronelia
+mail: ronelia@esss.com.br
+displayName: Ronélia Martins
+
+dn: uid=diane.ramos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: diane.ramos
+displayName: Dianeclei Silva Avila Ramos
+departmentNumber: Human Resources
+mail: diane.ramos@esss.com
+manager: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=arossa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: arossa
+mail: arossa@esss.com
+displayName: Andre Luis Rossa
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=andres.horacio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: andres.horacio
+mail: andres.horacio@esss.com.br
+displayName: Andrés Horacio Liberatto
+
+dn: uid=amanda,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: amanda
+mail: amanda@esss.com.br
+displayName: Amanda Henriques Leite Mattos
+
+dn: uid=rafaela,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Rafaela Menezes Calabrio
+uid: rafaela
+mail: rafaela@esss.com.br
+
+dn: uid=tomas.catena,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tomas.catena
+mail: tomas.catena@esss.com.br
+displayName: Tomas Catena
+
+dn: uid=max.moacir,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: max.moacir
+mail: max.moacir@esss.com.br
+displayName: Max Moacir Gonçalves de Melo
+
+dn: uid=juan.tello,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: juan.tello
+mail: juan.tello@esss.com.br
+displayName: Juan Sebastian Tello Cano
+
+dn: uid=newmar,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: newmar
+mail: newmar@esss.com
+displayName: Carlos Newmar Donatti
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=pilar.castellano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pilar.castellano
+displayName: Maria Del Pilar Castellano Garzón
+manager: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Administrative Financial
+mail: pilar.castellano@esss.com
+
+dn: uid=fpereira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fpereira
+mail: fpereira@esss.com.br
+displayName: Fernanda Pereira
+
+dn: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: camargo
+mail: camargo@esss.com
+displayName: Lucas Camargo Geraldo
+manager: uid=marcus,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=aguiar,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aguiar
+mail: aguiar@esss.com.br
+displayName: Jose Ignacio Aguiar
+
+dn: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: brandt
+displayName: Geraldo Luis Brandt
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: brandt@esss.com
+
+dn: uid=maira.prestes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Maira Gomes Prestes
+uid: maira.prestes
+mail: maira.prestes@esss.com.br
+
+dn: uid=marco.rodrigues,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: marco.rodrigues
+mail: marco.rodrigues@esss.com.br
+displayName: Marco Aurélio Rodrigues de Paula
+
+dn: uid=daniela,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: daniela
+mail: daniela@esss.com.br
+displayName: Daniela Carrieri
+
+dn: uid=march,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: march
+mail: march@esss.com.br
+displayName: Rafael March Castaneda Neto
+
+dn: uid=rafael.oliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Rafael Francisco Simoes de Oliveira
+uid: rafael.oliveira
+mail: rafael.oliveira@esss.com.br
+
+dn: uid=suellen,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: suellen
+mail: suellen@esss.com.br
+displayName: Suellen Mello Costa
+
+dn: uid=ana.medeiros,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ana.medeiros
+mail: ana.medeiros@esss.com.br
+displayName: Ana Paula Bechauser de Medeiros
+
+dn: uid=victoria.alvarez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Victoria Laura Alvarez Uliarte
+uid: victoria.alvarez
+mail: victoria.alvarez@esss.com.br
+
+dn: uid=cynthia.landaeta,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Cynthia Odette Landaeta Canete
+uid: cynthia.landaeta
+mail: cynthia.landaeta@esss.com.br
+
+dn: uid=alvaro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alvaro
+mail: alvaro@esss.com.br
+displayName: Alvaro Luiz Ribeiro Sarmet Moreira Smiderle
+
+dn: uid=frengel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: frengel
+mail: frengel@esss.com.br
+displayName: Fernando May Rengel
+
+dn: uid=gaston,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gaston
+mail: gaston@esss.com.br
+displayName: Gaston Michelotti Diaz
+
+dn: uid=michel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: michel
+mail: michel@esss.com.br
+displayName: Michel de Oliveira Minichiello
+
+dn: uid=gsantos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gsantos
+mail: gsantos@esss.com
+displayName: Gaston Santos Cruz Carlin
+manager: uid=arturo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Channel
+
+dn: uid=joseph,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: joseph
+mail: joseph@esss.com.br
+displayName: Joseph Richard Pinheiro de Carvalho
+
+dn: uid=yanbb,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: yanbb
+mail: yanbb@esss.com.br
+displayName: Yan Barboza Bastos
+
+dn: uid=vivianemb,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vivianemb
+mail: vivianemb@esss.com.br
+displayName: Viviane Mosqueira Bastos
+
+dn: uid=viniciusgs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: viniciusgs
+displayName: Vinicius Girardi Silva
+mail: viniciusgs@esss.com
+departmentNumber: Energy Industry Technology
+manager: uid=marcelot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=fernandacs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fernandacs
+mail: fernandacs@esss.com.br
+displayName: Fernanda Cavalli Schmitt
+
+dn: uid=valente,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: valente
+mail: valente@esss.com.br
+displayName: Wilson Valente Junior
+
+dn: uid=msoto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: msoto
+displayName: Miguel Hernan Soto Rubio
+mail: msoto@esss.com.br
+
+dn: uid=saltara,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: saltara
+mail: saltara@esss.com.br
+displayName: Fabio Saltara
+
+dn: uid=lucrecia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lucrecia
+mail: lucrecia@esss.com.br
+displayName: Lucrecia Maria Allende Nores
+
+dn: uid=karenp,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: karenp
+mail: karenp@esss.com.br
+displayName: Karen Cristina Plaza Garrido
+
+dn: uid=isabela,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: isabela
+mail: isabela@esss.com.br
+displayName: Isabela Fernandes Lopes
+
+dn: uid=andressa.melo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: andressa.melo@esss.com.br
+uid: andressa.melo
+displayName: Andressa Ribeiro de Melo
+
+dn: uid=roseli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: roseli
+mail: roseli@esss.com.br
+displayName: Roseli Aparecida Lara
+
+dn: uid=bittar,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bittar
+mail: bittar@esss.com.br
+displayName: Marcus Valério Bittar
+
+dn: uid=cmanquecoi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: cmanquecoi@esss.com.br
+uid: cmanquecoi
+displayName: Carlos Andres Manquecoi Rozas
+
+dn: uid=rpineroli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rpineroli
+mail: rpineroli@esss.com.br
+displayName: Roberto Franceschi Pineroli
+
+dn: uid=bandeira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bandeira
+mail: bandeira@esss.com.br
+displayName: Lucas Bandeira
+
+dn: uid=werneck,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: werneck
+mail: werneck@esss.com.br
+displayName: Estephany Werneck de Menezes
+
+dn: uid=gustavod,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gustavod
+mail: gustavod@esss.com.br
+displayName: Gustavo Maciulis Dip
+
+dn: uid=pmoreno,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pmoreno
+mail: pmoreno@esss.com.br
+displayName: Pamela Moreno Alvarado
+
+dn: uid=rgarcia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rgarcia
+mail: rgarcia@esss.com.br
+displayName: Rodrigo Garcia Madrid
+
+dn: uid=corti,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: corti
+mail: corti@esss.com.br
+displayName: Gastón Corti
+
+dn: uid=prusse,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: prusse
+displayName: Martin Prusse
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: prusse@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=liliane,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: liliane
+mail: liliane@esss.com.br
+displayName: Liliane Costa de Carvalho
+
+dn: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: flavia
+displayName: Flávia Machado Martins
+departmentNumber: Finance
+mail: flavia@esss.com
+manager: uid=tatianep,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=francielle,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: francielle
+mail: francielle@esss.com.br
+displayName: Francielle Camila Bosquetti
+
+dn: uid=mariano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mariano
+mail: mariano@esss.com.br
+displayName: Mariano Alberto Gallo
+
+dn: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fcruz
+mail: fcruz@esss.com
+displayName: Fernanda Grazielle Cruz
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+
+dn: uid=dayvid,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dayvid
+displayName: Dayvid de Melo Britto
+departmentNumber: Information Technology
+mail: dayvid@esss.com
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=dieison,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dieison
+mail: dieison@esss.com
+displayName: Ricardo Klein
+manager: uid=dieison,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+
+dn: uid=gabriela,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gabriela
+mail: gabriela@esss.com.br
+displayName: Gabriela Pereira Martins
+
+dn: uid=rafaelv,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rafaelv
+displayName: Rafael Vetturazzi
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: rafaelv@esss.com
+
+dn: uid=rafaeldn,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rafaeldn
+mail: rafaeldn@esss.com.br
+displayName: Rafael Duarte Nepomuceno
+
+dn: uid=oswaldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: oswaldo
+mail: oswaldo@esss.com.br
+displayName: Oswaldo Urbani Filho
+
+dn: uid=erick,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: erick
+mail: erick@esss.com.br
+displayName: Erick Morales Quezada 
+
+dn: uid=javier,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: javier
+mail: javier@esss.com.br
+displayName: Javier Nunez Mussa
+
+dn: uid=gisele,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gisele
+mail: gisele@esss.com.br
+displayName: Gisele Bege
+
+dn: uid=hcosta,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hcosta
+mail: hcosta@esss.com.br
+displayName: Henrique José Ferreira da Costa
+
+dn: uid=joel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: joel
+mail: joel@esss.com.br
+displayName: Joel Sanvezzo Junior
+
+dn: uid=ftaques,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ftaques
+displayName: Fernanda Taques
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: ftaques@esss.com
+
+dn: uid=enio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: enio
+displayName: Enio Tsutomu Hayashi
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: enio@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=anchieta,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: anchieta
+mail: anchieta@esss.com.br
+displayName: José Anchieta Junior
+
+dn: uid=erika,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: erika
+mail: erika@esss.com
+displayName: Erika Andrea Torres Rivera
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=samuel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: samuel
+mail: samuel@esss.com.br
+displayName: Samuel Ernesto Diaz
+
+dn: uid=john,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: john
+mail: john@esss.com.br
+displayName: John Hough
+
+dn: uid=valentina,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: valentina
+mail: valentina@esss.com.br
+displayName: Valentina Paz Anabalon Gallardo
+
+dn: uid=julia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: julia
+mail: julia@esss.com.br
+displayName: Julia Teodoro da Silva Tholl
+
+dn: uid=raphaelps,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: raphaelps
+displayName: Raphael Pádua Santos
+mail: raphaelps@esss.com.br
+
+dn: uid=arianne,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: arianne
+mail: arianne@esss.com.br
+displayName: Arianne Madureira Barcelos
+
+dn: uid=wesley,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: wesley
+departmentNumber: Information Technology
+displayName: Wesley Masato Oda do Nascimento
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: wesley@esss.com
+
+dn: uid=dgomez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dgomez
+mail: dgomez@esss.com.br
+displayName: DIEGO GOMEZ PINCHEIRA
+
+dn: uid=luiz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: luiz
+mail: luiz@esss.com
+displayName: Luiz Amaral
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=leonardoft,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: leonardoft
+mail: leonardoft@esss.com.br
+displayName: Leonardo Favaretto Trombetta
+
+dn: uid=bianca,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bianca
+displayName: Bianca de Pley Almeida Teixeira
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: bianca@esss.com
+
+dn: uid=hotton,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hotton
+mail: hotton@esss.com.br
+displayName: Hotton Feliciano Soares
+
+dn: uid=michael,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: michael
+mail: michael@esss.com.br
+displayName: Michael Sincleair
+
+dn: uid=borges,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: borges
+mail: borges@esss.com.br
+displayName: Alexandre Borges Ramos
+
+dn: uid=elisangela,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: elisangela
+displayName: Elisângela da Silva Gomes
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: elisangela@esss.com
+
+dn: uid=angelica,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: angelica
+displayName: Angelica do Amaral
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: angelica@esss.com
+
+dn: uid=cbatisti,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cbatisti
+mail: cbatisti@esss.com.br
+displayName: Camila Batisti
+
+dn: uid=cristina,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cristina
+mail: cristina@esss.com.br
+displayName: Cristina Schimidt Sitta
+
+dn: uid=frodrigues,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: frodrigues
+mail: frodrigues@esss.com
+displayName: Fabio Rodrigues Gonçalves da Silva
+manager: uid=viniciusgs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Industry Technology
+
+dn: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: maycon
+mail: maycon@esss.com
+displayName: Maycon Vieira dos Santos
+manager: uid=marcelot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Services
+
+dn: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dylan
+mail: dylan@esss.com
+displayName: Dylan Cichella Burigo
+manager: uid=marcus,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=rossato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rossato
+mail: rossato@esss.com.br
+displayName: Vinicius Rossato
+
+dn: uid=rcaparros,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rcaparros
+mail: rcaparros@esss.com
+displayName: Rocio Caparrós Simón
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mario
+mail: mario@esss.com
+manager: uid=marcus,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+displayName: Mario Sofia
+
+dn: uid=raphael,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: raphael
+mail: raphael@esss.com
+displayName: Raphael David Aquilino Bacchi
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=moreno,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: moreno
+mail: moreno@esss.com
+displayName: Carlos Moreno
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+
+dn: uid=fogaca,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fogaca
+displayName: Rodrigo Fogaça Teodoro dos Reis
+departmentNumber: Business Development
+mail: fogaca@esss.com
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=gribeiro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gribeiro
+displayName: Gustavo Gondran Ribeiro
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: gribeiro@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cgarrido
+mail: cgarrido@esss.com
+displayName: Carlos Andrés Olivares Garrido
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=rosenbach,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rosenbach
+displayName: Leonardo Iri Nicola Cristofari Rosenbach
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rosenbach@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=loliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: loliveira
+displayName: Lucas Vinicius Amaral de Oliveira
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: loliveira@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=angelo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: angelo
+displayName: Henrique Angelo Zanini Paim
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: angelo@esss.com
+
+dn: uid=giovanna,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: giovanna
+displayName: Giovanna Calixto Faraco
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: giovanna@esss.com
+
+uid: renan
+displayName: Renan Schwinden
+departmentNumber: Channel
+mail: renan@esss.com
+manager: uid=arturo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=israel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: israel
+mail: israel@esss.com
+displayName: Israel Alfredo Marino Navas
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=abarbosa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: abarbosa
+displayName: Alexandre Barbosa Bruno
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: abarbosa@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=caroliner,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: caroliner
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+mail: caroliner@esss.com
+displayName: Caroline de Carvalho Rocha
+
+dn: uid=diego,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: diego
+displayName: Diego Tavares Volpatto
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: diego@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=wpereira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: wpereira
+mail: wpereira@esss.com
+displayName: William Pereira
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=cbarreto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cbarreto
+displayName: Carolina Barreto
+manager: uid=viniciusgs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: cbarreto@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=cgoncalves,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cgoncalves
+mail: cgoncalves@esss.com
+displayName: Gabriel Cerqueira Gonçalves
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=igorfc,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: igorfc
+displayName: Igor Feliciano da Costa
+departmentNumber: Business Development
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: igorfc@esss.com
+
+dn: uid=ehmke,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ehmke
+displayName: Carlos Eduardo Ehmke Agra
+departmentNumber: Services and Support
+mail: ehmke@esss.com
+manager: uid=igorfc,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=victorhugo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: victorhugo
+displayName: Victor Hugo Ribeiro Carriço
+mail: victorhugo@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=peralta,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: peralta
+displayName: Rodrigo Peralta Muniz Moreira
+departmentNumber: Services and Support
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: peralta@esss.com
+
+dn: uid=alvarop,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alvarop
+mail: alvarop@esss.com
+displayName: Alvaro Pablo Pereira
+manager: uid=jviot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=brunom,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: brunom
+displayName: Bruno Mendes de Souza
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: brunom@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=gcarvalho,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gcarvalho
+displayName: Guilherme Campagner Carvalho
+departmentNumber: Marketing
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: gcarvalho@esss.com
+
+dn: uid=marcello,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: marcello
+mail: marcello@esss.com
+displayName: Marcello Henrique Garcia de Freitas
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=gfaria,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gfaria
+mail: gfaria@esss.com
+displayName: Gabriel Mafra de Faria
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=tassia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tassia
+mail: tassia@esss.com
+displayName: Tassia Mohr
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=igmasa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: igmasa
+mail: igmasa@esss.co
+displayName: Laura Rivera
+manager: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Administrative Financial
+
+dn: uid=rafaelc,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rafaelc
+displayName: Rafael Pereira do Carmo
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rafaelc@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=vzorat,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vzorat
+mail: vzorat@esss.com
+displayName: Victoria Laureano Zorat
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+
+dn: uid=tfaria,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tfaria
+mail: tfaria@esss.com
+displayName: Tiago Gonçalves Faria
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=menes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: menes
+mail: menes@esss.com
+displayName: Marcelo Da Silva Enes
+manager: uid=diane.ramos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+
+dn: uid=ivanat,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ivanat
+displayName: Ivana Laura Turelli
+manager: uid=pilar.castellano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Administrative Financial
+mail: ivanat@esss.com
+
+dn: uid=joana,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: joana
+displayName: Joana Ventura Da Silva
+departmentNumber: iESSS
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: joana@esss.com
+
+dn: uid=vribeiro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vribeiro
+mail: vribeiro@esss.com
+displayName: Victor Gabriel Oliveira Ribeiro
+departmentNumber: Finance
+manager: uid=rperes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=felipet,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: felipet
+displayName: Felipe Targa
+manager: uid=viniciusgs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: felipet@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=aurelio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aurelio
+displayName: Aurélio Millen De Castro
+manager: uid=cbarreto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: aurelio@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=hmayer,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hmayer
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: hmayer@esss.com
+displayName: Henrique Mayer
+departmentNumber: Energy Dev
+
+dn: uid=mlima,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mlima
+mail: mlima@esss.com
+displayName: Michel Igor Da Conceição De Lima 
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+
+dn: uid=crigo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: crigo
+displayName: Cristiano Shuji Shimada Rigo
+departmentNumber: Business Development
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: crigo@esss.com
+
+dn: uid=caue,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: caue
+displayName: Cauê Baasch De Souza
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: caue@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=acotrim,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: acotrim
+displayName: André Cotrim Dos Santos Gomes
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: acotrim@esss.com
+
+dn: uid=arturo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: arturo
+mail: arturo@esss.com
+displayName: Arturo De Moraes Ortola
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Channel
+
+dn: uid=anaandrade,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: anaandrade
+displayName: Ana Claudia Andrade Alves
+manager: uid=cbarreto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: anaandrade@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=jzart,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jzart
+mail: jzart@esss.com
+displayName: José Carlos Ignacio Gonçalves Zart
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=fabiolass,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fabiolass
+departmentNumber: Marketing
+displayName: Fabíola Santos Soares
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: fabiolass@esss.com
+
+dn: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: virgilio
+mail: virgilio@esss.com
+displayName: José Virgilio Rocca De Almeida
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: eraldo
+mail: eraldo@esss.com
+displayName: Eraldo Silva De Souza Júnior
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=igallinari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: igallinari
+mail: igallinari@esss.com
+displayName: Isabella Gallinari Cavalcante
+manager: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+
+dn: uid=spoladore,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: spoladore
+mail: spoladore@esss.com
+displayName: Izabella Patrícia Borges Spoladore
+manager: uid=frodrigues,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Industry Technology
+
+dn: uid=rafaeljalves,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rafaeljalves
+displayName: Rafael Joaquim Alves
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rafaeljalves@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=ellen,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ellen
+displayName: Ellen Mariana De Souza Dias
+departmentNumber: iESSS
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: ellen@esss.com
+
+dn: uid=christian,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: christian
+mail: christian@esss.com
+displayName: Christian Baggio
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=rvelazquez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rvelazquez
+departmentNumber: Services and Support
+displayName: Rodrigo Ramón Velazquez
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rvelazquez@esss.com
+
+dn: uid=coelho,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: coelho
+mail: coelho@esss.com
+displayName: Jean Carlos Coelho
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+
+dn: uid=apavan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: apavan
+mail: apavan@esss.com
+displayName: André Nuernberg Pavan
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=aisotton,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aisotton
+displayName: Anderson Negrini Isotton
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: aisotton@esss.com
+
+dn: uid=finserra,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: finserra
+mail: finserra@esss.com
+displayName: Fernando Nunes Inserra
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=dcarreon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dcarreon
+mail: dcarreon@esss.com
+displayName: Diego Alberto Rendón Carreón
+manager: uid=atzinmendoza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=mayara,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mayara
+departmentNumber: BUSOP
+displayName: Mayara Da Mata Moraes
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: mayara@esss.com
+
+dn: uid=marcelot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: marcelot
+mail: marcelot@esss.com
+displayName: Marcelo Tonetti
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Sales
+
+dn: uid=kneipp,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: kneipp
+mail: kneipp@esss.com
+displayName: Raphael Rodrigues Kneipp
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=antonio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: antonio
+displayName: Antonio Marinho Barbosa Neto
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: antonio@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=lucasl,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lucasl
+displayName: Lucas Vinicius Batista Leite
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: lucasl@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=laianea,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: laianea
+displayName: Laiane Araújo Andrade
+mail: laianea@esss.com
+departmentNumber: Energy Industry Technology
+manager: uid=marcelot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cristianov
+mail: cristianov@esss.com
+displayName: Cristiano Verona
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=lauroasr,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lauroasr
+displayName: Lauro Augusto Soares Rezende
+mail: lauroasr@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=hendrik,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hendrik
+displayName: Hendrik Gerard Johan Jennen
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: hendrik@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=gustavopb,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gustavopb
+displayName: Gustavo Paim Berned
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: gustavopb@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=andrelmr,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: andrelmr
+displayName: André Luís Marques Rodrigues
+mail: andrelmr@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=jaimenl,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jaimenl
+displayName: Jaime Nunes Leal
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: jaimenl@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=gabrielfoa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gabrielfoa
+displayName: Gabriel Felipe De Oliveira Antão
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: gabrielfoa@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=nicholas,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: nicholas
+displayName: Nicholas Otero Juliano
+departmentNumber: Business Development
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: nicholas@esss.com
+
+dn: uid=alines,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alines
+displayName: Aline Esteve Soares
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+mail: alines@esss.com
+
+dn: uid=merhy,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: merhy
+displayName: Gabriel Merhy De Oliveira
+mail: merhy@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=mdicapua,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mdicapua
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+displayName: Mario Antonio Di Capua Hidalgo
+mail: mdicapua@esss.com
+
+dn: uid=florencia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: florencia
+displayName: Florencia Mazzola
+manager: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Administrative Financial
+mail: florencia@esss.com
+
+dn: uid=rodrigosr,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rodrigosr
+mail: rodrigosr@esss.com
+displayName: Rodrigo De Sena Ramos
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+
+dn: uid=rogersl,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rogersl
+displayName: Roger Da Silva Lauermann
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: rogersl@esss.com
+
+dn: uid=vmuller,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vmuller
+displayName: Vitória Araújo Muller
+departmentNumber: iESSS
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: vmuller@esss.com
+
+dn: uid=fherzog,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fherzog
+mail: fherzog@esss.com
+displayName: Felipe Mânica Herzog
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Compliance
+
+dn: uid=luciano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: luciano
+displayName: Luciano Da Silva França Filho
+manager: uid=arturo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Channel
+mail: luciano@esss.com
+
+dn: uid=lsantos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lsantos
+mail: lsantos@esss.com
+displayName: Leonardo Nascimento Dos Santos
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+
+dn: uid=ksilva,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ksilva
+displayName: Kelly Da Silva
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: ksilva@esss.com
+
+dn: uid=george,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: george
+mail: george@esss.com
+displayName: George Loureiro Mendes
+manager: uid=frodrigues,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Industry Technology
+
+dn: uid=lsouza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lsouza
+displayName: Lucas Gabriel De Souza
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: lsouza@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=suenny,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: suenny
+displayName: Suenny Costa Firmino
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+mail: suenny@esss.com
+
+dn: uid=florencio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: florencio
+displayName: Anderson Rossi Florencio
+departmentNumber: Commercial Ansys Inside Sales
+mail: florencio@esss.com
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=andream,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: andream
+displayName: Andrea Zulay Martínez Babilonia
+manager: uid=felipet,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: andream@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=pazmino,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pazmino
+displayName: Sofía Acuña Pazmiño
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+mail: pazmino@esss.com
+
+dn: uid=ckiyono,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ckiyono
+displayName: Cesar Yukishigue Kiyono
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: ckiyono@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=apickcius,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: apickcius
+displayName: Arthur Mesquita Pickcius
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: apickcius@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: sindym
+mail: sindym@esss.com
+displayName: Sindy Coelho Müller
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=gersonfsj,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gersonfsj
+displayName: Gerson Francisco Da Silva Junior
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: gersonfsj@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=vmonteiro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vmonteiro
+displayName: Vinícius Guimarães Monteiro
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: vmonteiro@esss.com
+
+dn: uid=lsegrilo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lsegrilo
+departmentNumber: Business Development
+displayName: Leonardo Medeiros Segrilo
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: lsegrilo@esss.com
+
+dn: uid=diegom,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: diegom
+mail: diegom@esss.com
+displayName: Diego Pereira Da Mota
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=calarcon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: calarcon
+displayName: Camilo Matías Díaz Alarcón 
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: calarcon@esss.com
+
+dn: uid=jorsatto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jorsatto
+displayName: Julio Picinato Orssatto
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: jorsatto@esss.com
+departmentNumber: Energy Services
+
+dn: uid=fbreuil,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fbreuil
+displayName: Felipe Lemos Breuil
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: fbreuil@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=gabrielals,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gabrielals
+mail: gabrielals@esss.com
+displayName: Gabriela Lozano Sanchez
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: sandrops
+mail: sandrops@esss.com
+displayName: Sandro Paim Da Silva
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=thiagos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: thiagos
+mail: thiagos@esss.com
+displayName: Thiago Schmoeller
+manager: uid=igorfc,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=thalescl,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: thalescl
+displayName: Thales Carl Lavoratti
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: thalescl@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=mguimaraes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mguimaraes
+displayName: Matheus Conceição Carmo Ferreira Guimarães
+mail: mguimaraes@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=eliezer,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: eliezer
+displayName: Eliézer Justino Do Carmo
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: eliezer@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=ldecultot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ldecultot
+mail: ldecultot@esss.com
+displayName: Léa Chantal Décultot
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=harielm,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: harielm
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: harielm@esss.com
+displayName: Hariel Udi Santana Mendes
+departmentNumber: Energy Services
+
+dn: uid=dpetrucci,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dpetrucci
+mail: dpetrucci@esss.com
+displayName: Daniela Petrucci
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+
+dn: uid=lbaccani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lbaccani
+displayName: Luca Baccani
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+mail: lbaccani@esss.com
+
+dn: uid=sdirosa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: sdirosa
+departmentNumber: Services and Support
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: sdirosa@esss.com
+displayName: Silvia Di Rosa
+
+dn: uid=pmurillo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pmurillo
+displayName: Pilar Murillo
+manager: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Administrative Financial
+mail: pmurillo@esss.com
+
+dn: uid=rbeckert,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rbeckert
+displayName: Ricardo Beckert
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rbeckert@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=monica,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: monica
+mail: monica@esss.com
+displayName: Mônica Back Westrupp 
+departmentNumber: Human Resources
+manager: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=teresa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: teresa
+mail: teresa@esss.com
+displayName: Teresa Muñoz
+manager: uid=benjamin.buteler,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=brunop,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: brunop
+displayName: Bruno Mota Puls Da Silveira
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+mail: brunop@esss.com
+
+dn: uid=leandross,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: leandross
+mail: leandross@esss.com
+displayName: José Leandro Silva Serrano
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=caiosr,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: caiosr
+displayName: Caio Silva Ramos
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: caiosr@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=igiacopuzzi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: igiacopuzzi
+displayName: Ilaria Giacopuzzi
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+mail: igiacopuzzi@esss.com
+
+dn: uid=andreg,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: andreg
+displayName: André Garcia Cunha Filho
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: andreg@esss.com
+
+dn: uid=bmanzoni,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bmanzoni
+displayName: Barbara Manzoni
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+mail: bmanzoni@esss.com
+
+dn: uid=adidonato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: adidonato
+displayName: Alberto Didonato
+manager: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+mail: adidonato@esss.com
+
+dn: uid=abresciani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: abresciani
+mail: abresciani@esss.com
+displayName: Andrea Bresciani
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bbelloli
+mail: bbelloli@esss.com
+displayName: Benedetto Belloli
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=bdreina,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: bdreina
+mail: bdreina@esss.com
+displayName: Bruno Dreina
+manager: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=fbernasconi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fbernasconi
+manager: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+mail: fbernasconi@esss.com
+displayName: Fabio Bernasconi
+
+dn: uid=lraffin,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lraffin
+displayName: Luca Raffin
+manager: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+mail: lraffin@esss.com
+
+dn: uid=spalmieri,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: spalmieri
+mail: spalmieri@esss.com
+displayName: Silvia Palmieri
+manager: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=fsantos-ext,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fsantos-ext
+displayName: Fernanda Mendonça Santos
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+mail: fsantos-ext@esss.com
+
+dn: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lbrugali
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: lbrugali@esss.com
+displayName: Luca Brugali
+
+dn: uid=lairaudi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lairaudi
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: lairaudi@esss.com
+displayName: Livio Airaudi
+
+dn: uid=cstrada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cstrada
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: cstrada@esss.com
+displayName: Carlo Strada
+
+dn: uid=fvilla,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fvilla
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: fvilla@esss.com
+displayName: Fabio Villa
+
+dn: uid=aserra,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aserra
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: aserra@esss.com
+displayName: Andrea Serra
+
+dn: uid=edalessandro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: edalessandro
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: edalessandro@esss.com
+displayName: Emiliano D Alessandro
+
+dn: uid=frossetti,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: frossetti
+mail: frossetti@esss.com
+displayName: Fabio Rossetti
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+
+dn: uid=mderinaldis,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mderinaldis
+mail: mderinaldis@esss.com
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+displayName: Mariarita De Rinaldis
+
+dn: uid=vcaputo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vcaputo
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: vcaputo@esss.com
+displayName: Valerio Caputo
+
+dn: uid=ncafariello,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ncafariello
+mail: ncafariello@esss.com
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+displayName: Nicola Cafariello
+
+dn: uid=rgoes-ext,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rgoes-ext
+displayName: Rodrigo Corrêa Góes
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+mail: rgoes-ext@esss.com
+
+dn: uid=isabeladv,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: isabeladv
+displayName: Isabela Devens Vieira
+departmentNumber: Finance
+mail: isabeladv@esss.com
+manager: uid=rperes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=jharizi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jharizi
+manager: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Administrative Financial
+mail: jharizi@esss.com
+displayName: Jonela Harizi
+
+dn: uid=juliac,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: juliac
+displayName: Julia Valentini Carenzi Da Silva
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: juliac@esss.com
+departmentNumber: Energy Services
+
+dn: uid=elton,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: elton
+displayName: Elton Jorge Bragança Ribeiro
+mail: elton@esss.com
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Services
+
+dn: uid=goteri,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: goteri
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: goteri@esss.com
+displayName: Giovanni Oteri
+
+dn: uid=rjespi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Rodrigo Jesus Espi Garcia
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+uid: rjespi
+mail: rjespi@esss.com
+
+dn: uid=mangelino,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mangelino
+mail: mangelino@esss.com
+displayName: Matteo Angelino
+manager: uid=lbrugali,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+
+dn: uid=jmuller,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jmuller
+displayName: Joana Julia Müller
+manager: uid=viniciusgs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: jmuller@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=lvarriale,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lvarriale
+mail: lvarriale@esss.com
+displayName: Luigi Varriale
+manager: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=msevilla,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: msevilla
+mail: msevilla@esss.com
+displayName: Mikel Sevilla Aguirre
+manager: uid=jviot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=nferreira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: nferreira
+mail: nferreira@esss.com
+displayName: Nuno Cláudio Da Silva Ferreira
+manager: uid=rcaparros,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=lucasc,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lucasc
+mail: lucasc@esss.com
+displayName: Lucas Da Silva Carvalho
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=lmilano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lmilano
+mail: lmilano@esss.com
+displayName: Leonardo Milano
+manager: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=acosta,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: acosta
+displayName: Alejandro Dominguez Costa
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: acosta@esss.com
+
+dn: uid=rneto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rneto
+displayName: Rodrigo De Oliveira Neto
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rneto@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=dschutz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dschutz
+displayName: Daniel Oscar Schütz
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: dschutz@esss.com
+
+dn: uid=cmilanez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cmilanez
+displayName: Catherine Milanez
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+mail: cmilanez@esss.com
+
+dn: uid=ryee,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ryee
+displayName: Ricardo Peng Yee
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: ryee@esss.com
+
+dn: uid=ycapellaro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ycapellaro
+displayName: Yan Caires Capellaro
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: ycapellaro@esss.com
+departmentNumber: Energy Services
+
+dn: uid=famorim,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: famorim
+displayName: Fernanda Bazilio De Amorim
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: famorim@esss.com
+departmentNumber: Energy Services
+
+dn: uid=aniellop,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aniellop
+mail: aniellop@esss.com
+displayName: Aniello Apuzzo
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+
+dn: uid=lcalligaris,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lcalligaris
+displayName: Luis Anderson Calligaris
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: lcalligaris@esss.com
+
+dn: uid=hrodrigues,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hrodrigues
+displayName: Heitor De Almeida Rodrigues
+departmentNumber: iESSS
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: hrodrigues@esss.com
+
+dn: uid=abartolo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: abartolo
+mail: abartolo@esss.com
+displayName: Artur Alexandre Faustino Bártolo
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=jbatista,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jbatista
+mail: jbatista@esss.com
+displayName: Jonathan Claudio Silva Batista
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+
+dn: uid=amartins,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: amartins
+mail: amartins@esss.com
+displayName: Alexandre De Castro Martins
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Services
+
+dn: uid=prodrigues,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: prodrigues
+mail: prodrigues@esss.com
+displayName: Paulo Ricardo Moreira Rodrigues
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Services
+
+dn: uid=tpozza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tpozza
+mail: tpozza@esss.com
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+displayName: Tiago Della Pozza
+
+dn: uid=carolinat,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: carolinat
+mail: carolinat@esss.com
+displayName: Carolina Trebien
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=guchoa,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: guchoa
+displayName: Guilherme Gomes De Mendonça Uchoa
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: guchoa@esss.com
+departmentNumber: Energy Services
+
+dn: uid=meneguesso,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Barbara Gonçalves Daud Meneguesso
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: meneguesso
+mail: meneguesso@esss.com
+departmentNumber: Energy Services
+
+dn: uid=pedrozs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pedrozs
+mail: pedrozs@esss.com
+displayName: Pedro Luiz Zacheu De Souza
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=almonacid,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: almonacid
+mail: almonacid@esss.com
+displayName: Lourdes Priscila Almonacid Campillay
+manager: uid=pilar.castellano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+
+dn: uid=gmorais,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gmorais
+displayName: Gabriel Bastos De Morais
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+mail: gmorais@esss.com
+
+dn: uid=anogueira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: anogueira
+displayName: André Lourenço Nogueira
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+mail: anogueira@esss.com
+
+dn: uid=ecarvalho,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ecarvalho
+mail: ecarvalho@esss.com
+displayName: Enrico Lopez Borges De Carvalho
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+
+dn: uid=aserrano,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aserrano
+mail: aserrano@esss.com
+displayName: Alberto Serrano Bustamante
+manager: uid=jviot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=lcorrand,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lcorrand
+mail: lcorrand@esss.com
+displayName: Lucile Corrand
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=jvazquez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jvazquez
+mail: jvazquez@esss.com
+displayName: Jorge Vázquez Arias
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=aalonso,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aalonso
+mail: aalonso@esss.com
+displayName: Antonio Alonso López
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=dmateo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dmateo
+mail: dmateo@esss.com
+displayName: Diana Mateo Martín
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=pgabella,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pgabella
+mail: pgabella@esss.com
+displayName: Pablo Gabella Domínguez
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=jnamihas,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jnamihas
+mail: jnamihas@esss.com
+displayName: Joaquin Namihas Lastra
+manager: uid=jviot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=jmmunoz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jmmunoz
+mail: jmmunoz@esss.com
+displayName: Javier Miguel Muñoz Martin
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=alopez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alopez
+mail: alopez@esss.com
+displayName: Alberto López Gallego
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=nnino,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: nnino
+mail: nnino@esss.com
+displayName: Nuria Nino Farinas
+manager: uid=jviot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=jbrandao,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jbrandao
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: jbrandao@esss.com
+displayName: Julio Cesar Grillo Brandão
+departmentNumber: Energy Services
+
+dn: uid=vraupp,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vraupp
+displayName: Victor Matheus Augustinho Raupp
+departmentNumber: Services and Support
+mail: vraupp@esss.com
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=lvieira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lvieira
+displayName: Lucas Souza Vieira
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+mail: lvieira@esss.com
+
+dn: uid=lalmeida,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lalmeida
+mail: lalmeida@esss.com
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Leonardo Gregório De Almeida
+departmentNumber: Energy Dev
+
+dn: uid=fmontrone,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: fmontrone@esss.com
+uid: fmontrone
+displayName: Flavio Montrone
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=squesada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+displayName: Sheila Quesada Martínez
+manager: uid=tatianaplaza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+mail: squesada@esss.com
+uid: squesada
+
+dn: uid=fsantos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fsantos
+displayName: Felipe Augusto Lombardi Dos Santos Favero
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: fsantos@esss.com
+departmentNumber: Energy Services
+
+dn: uid=jcosta,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jcosta
+mail: jcosta@esss.com
+displayName: João Victor Vettorazzo Costa
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=aelias,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aelias
+mail: aelias@esss.com
+displayName: Alex José Elias
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=tribeiro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tribeiro
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: tribeiro@esss.com
+displayName: Thomas Gabriel Paiva Ribeiro
+departmentNumber: Energy Services
+
+dn: uid=pmoreira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pmoreira
+mail: pmoreira@esss.com
+displayName: Pedro Alexandre Dias Moreira
+manager: uid=rcaparros,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=gguarino,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gguarino
+mail: gguarino@esss.com
+displayName: Gaetano Emiliano Guarino
+manager: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=csilva,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: csilva
+mail: csilva@esss.com
+displayName: Carina Silva Silva
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+
+dn: uid=smanzini,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: smanzini
+mail: smanzini@esss.com
+displayName: Stefano Licurgo Pietro Manzini
+manager: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=jbittencourt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jbittencourt
+displayName: Juliana Bittencourt
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+mail: jbittencourt@esss.com
+
+dn: uid=srinaldi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: srinaldi
+displayName: Stefano Rinaldi
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: srinaldi@esss.com
+
+dn: uid=gfazzone,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gfazzone
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: gfazzone@esss.com
+displayName: Giovanni Fazzone
+
+dn: uid=gtrono,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gtrono
+mail: gtrono@esss.com
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+displayName: Gabriele Trono
+
+dn: uid=vcicoira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vcicoira
+displayName: Vito Cicoira
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: vcicoira@esss.com
+
+dn: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lziliani
+mail: lziliani@esss.com
+displayName: Luca Ziliani
+manager: uid=bbelloli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=lfante,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lfante
+mail: lfante@esss.com
+displayName: Lucca Guimarães Fante
+manager: uid=armando,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=atzinmendoza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: atzinmendoza
+mail: atzinmendoza@esss.com
+displayName: Atzin Mendoza Macias
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=alexandrej,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: alexandrej
+displayName: Alexandre Jodjahn Da Rocha
+mail: alexandrej@esss.com
+departmentNumber: Energy Sales
+manager: uid=marcelot,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=rafaelafs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rafaelafs
+displayName: Rafaela Ferreira Da Silva
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: rafaelafs@esss.com
+departmentNumber: Energy Services
+
+dn: uid=cdantas,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: cdantas
+displayName: Clarissa Dantas Paula
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: cdantas@esss.com
+departmentNumber: Energy Services
+
+dn: uid=tvaldrez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tvaldrez
+displayName: Thauana Gomes Valdrez
+departmentNumber: Human Resources
+mail: tvaldrez@esss.com
+manager: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: koliveira
+mail: koliveira@esss.com
+displayName: Kelly Christiane Guimarães De Oliveira
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=gbenedito,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gbenedito
+mail: gbenedito@esss.com
+displayName: Gabriel Enrique Santos Cinci Benedito
+manager: uid=flavia,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+
+dn: uid=tatianep,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tatianep
+mail: tatianep@esss.com
+displayName: Tatiane De Oliveira Pereira
+departmentNumber: Finance
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=dgraebin,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dgraebin
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+mail: dgraebin@esss.com
+displayName: Daniel Pedro Silva Graebin
+
+dn: uid=gcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gcruz
+mail: gcruz@esss.com
+displayName: Gabriel Ferreira Da Cruz
+departmentNumber: Human Resources
+manager: uid=diane.ramos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=priscillar,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: priscillar
+mail: priscillar@esss.com
+displayName: Priscilla Pereira Rosa
+departmentNumber: BUSOP Dados
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=royugi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: royugi
+displayName: Rachel Okinyo Okumu Oyugi
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: royugi@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=aconte,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aconte
+mail: aconte@esss.com
+displayName: Agostino Conte
+manager: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+
+dn: uid=psimao,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: psimao
+displayName: Pedro Augusto Bernades Simão
+manager: uid=ferraz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: psimao@esss.com
+
+dn: uid=rnunes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rnunes
+displayName: Ramiro Luiz Nunes
+mail: rnunes@esss.com
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+
+dn: uid=jcoelho,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jcoelho
+displayName: Jean Coelho
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: jcoelho@esss.com
+
+dn: uid=lcataldi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lcataldi
+mail: lcataldi@esss.com
+displayName: Lucia Cataldi
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=lalkimim,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lalkimim
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: lalkimim@esss.com
+displayName: Lorrane De Alkimim Oliveira
+departmentNumber: Energy Dev
+
+dn: uid=asouza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: asouza
+mail: asouza@esss.com
+displayName: Ana Júlia Gomes De Souza
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=noliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: noliveira
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: noliveira@esss.com
+displayName: Nícolas Lima Oliveira
+departmentNumber: Energy Dev
+
+dn: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: claudiaquezada
+mail: claudiaquezada@esss.com
+displayName: Claudia Andrea Bravo Quezada
+manager: uid=coi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+
+dn: uid=jnomelini,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jnomelini
+displayName: Julio Cesar Nomelini
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: jnomelini@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=rgoncalves,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rgoncalves
+mail: rgoncalves@esss.com
+displayName: Ramon De Andrade Gonçalves
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=mfarah,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mfarah
+mail: mfarah@esss.com
+displayName: Maria Luíza Farah
+manager: uid=dylan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: iESSS
+
+dn: uid=asotos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: asotos
+displayName: Adriano Matuck Sotos
+manager: uid=koliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: asotos@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=aporto,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aporto
+displayName: Arthur Leal Porto
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: aporto@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=mguizzetti,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mguizzetti
+displayName: Mattia Guizzetti
+manager: uid=camargo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+mail: mguizzetti@esss.com
+
+dn: uid=lramos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lramos
+displayName: Luiz Felipe De Ramos
+departmentNumber: Services and Support
+mail: lramos@esss.com
+manager: uid=igorfc,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=froldan,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: froldan
+mail: froldan@esss.com
+displayName: Fredy Alexander Roldan Figueredo
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=dsantos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dsantos
+mail: dsantos@esss.com
+displayName: Dênisson Lima Santos
+manager: uid=maycon,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Services
+
+dn: uid=mvittori,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mvittori
+mail: mvittori@esss.com
+displayName: Morgana Vittori
+manager: uid=cgarrido,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Academic
+
+dn: uid=tfranzoi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tfranzoi
+displayName: Tiffany Cristine Franzoi
+manager: uid=viniciusgs,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: tfranzoi@esss.com
+departmentNumber: Energy Industry Technology
+
+dn: uid=fneves,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: fneves
+mail: fneves@esss.com
+displayName: Filipe Cardoso Simões Ferreira Neves
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=mangelini,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mangelini
+mail: mangelini@esss.com
+displayName: Margherita Angelini
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=lmancinelli,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lmancinelli
+manager: uid=lziliani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+mail: lmancinelli@esss.com
+displayName: Luca Mancinelli
+
+dn: uid=aoliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: aoliveira
+displayName: André Romão De Oliveira
+manager: uid=brandt,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Information Technology
+mail: aoliveira@esss.com
+
+dn: uid=jdelani,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jdelani
+displayName: Jessica Caroline Delani
+manager: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+mail: jdelani@esss.com
+
+dn: uid=ssilva,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ssilva
+mail: ssilva@esss.com
+displayName: Suzan Viviane Nunes E Silva
+departmentNumber: Finance
+manager: uid=rperes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=mjaramillo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mjaramillo
+mail: mjaramillo@esss.com
+manager: uid=claudiaquezada,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+displayName: Maria Del Pilar Ruíz Jaramillo
+
+dn: uid=danielg,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: danielg
+displayName: Daniel Sá Barretto Prado Garcia
+manager: uid=cristianov,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+mail: danielg@esss.com
+
+dn: uid=pmanenti,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pmanenti
+displayName: Patrizia Manenti
+manager: uid=dieison,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Finance
+mail: pmanenti@esss.com
+
+dn: uid=mghidini,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: mghidini
+displayName: Margherita Ghidini
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+mail: mghidini@esss.com
+
+dn: uid=tomasp,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: tomasp
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: tomasp@esss.com
+departmentNumber: Commercial Ansys Inside Sales
+displayName: Tomás Selaibe Pires
+
+dn: uid=jpablo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jpablo
+displayName: Juan Pablo Silva Gutierrez
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Inside Sales
+mail: jpablo@esss.com
+
+dn: uid=rperes,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rperes
+displayName: Raphael Peres Allemany Mingattos
+departmentNumber: Finance
+mail: rperes@esss.com
+manager: uid=fcruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+
+dn: uid=laurac,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: laurac
+mail: laurac@esss.com
+displayName: Laura Cavagnoli
+manager: uid=diane.ramos,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Human Resources
+
+dn: uid=natank,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: natank
+displayName: Natan Kanitz
+manager: uid=sindym,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+mail: natank@esss.com
+departmentNumber: Energy Dev
+
+dn: uid=santiagod,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: santiagod
+mail: santiagod@esss.com
+displayName: Santiago Díaz
+manager: uid=mario,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: License Compliance
+
+dn: uid=gbiase,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gbiase
+mail: gbiase@esss.com
+displayName: Giacomo Di Biase
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=vpalhares,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: vpalhares
+displayName: Vinícius Gomes Palhares
+manager: uid=contessi,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Business Development
+mail: vpalhares@esss.com
+
+dn: uid=sschill,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: sschill
+displayName: Suiane Trisch Schill
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+mail: sschill@esss.com
+
+dn: uid=rsilva,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rsilva
+mail: rsilva@esss.com
+displayName: Rodrigo José Brasil Silva
+manager: uid=sandrops,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Marketing
+
+dn: uid=ecruz,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: ecruz
+displayName: Elsin Johanna Cruz Galindo
+manager: uid=atzinmendoza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+mail: ecruz@esss.com
+
+dn: uid=jbonilla,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: jbonilla
+mail: jbonilla@esss.com
+displayName: Jheferson Luis Bonilla Urrea
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=dvasquez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: dvasquez
+mail: dvasquez@esss.com
+displayName: Deivis Arthur Vasquez Gamarra
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=eduarte,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: eduarte
+mail: eduarte@esss.com
+displayName: Elisiane Terezinha Duarte
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+
+dn: uid=gcaro,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gcaro
+displayName: Gabriela Caro Lopez
+manager: uid=atzinmendoza,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys
+mail: gcaro@esss.com
+
+dn: uid=lrodriguez,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lrodriguez
+displayName: Luis Alberto Rodriguez Barboza
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+mail: lrodriguez@esss.com
+
+dn: uid=rneves,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: rneves
+mail: rneves@esss.com
+displayName: Rafael Zanette Neves
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Services and Support
+
+dn: uid=beitel,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: beitel
+displayName: Bruno Alfonso Sebastián Eitel Olivares
+manager: uid=benjamin.buteler,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Ansys Sales
+mail: beitel@esss.com
+
+dn: uid=hlara,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: hlara
+displayName: Hugo Cesar Lara Marcial
+manager: uid=ropelato,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Ansys TEC
+mail: hlara@esss.com
+
+dn: uid=nduarte,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: nduarte
+manager: uid=marcios,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: BUSOP
+mail: nduarte@esss.com
+displayName: Nicolly Ribeiro Duarte
+
+dn: uid=gcavalieri,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: gcavalieri
+displayName: Giorgio Cavalieri
+manager: uid=virgilio,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: CAE Sales
+mail: gcavalieri@esss.com
+
+dn: uid=pcirera,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pcirera
+displayName: Pablo Cirera
+manager: uid=rcaparros,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+mail: pcirera@esss.com
+
+dn: uid=lheikkila,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: lheikkila
+displayName: Ilaria Heikkila
+manager: uid=ncafariello,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+mail: lheikkila@esss.com
+
+dn: uid=soliveira,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: soliveira
+displayName: Sabrina De Oliveira Portal
+manager: uid=eraldo,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Commercial Ansys Inside Sales
+mail: soliveira@esss.com
+
+dn: uid=pleite,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+uid: pleite
+displayName: Paulo Gustavo Melo Machado Leite
+manager: uid=ari,ou=Users,ou=ESSS,dc=esss,dc=com,dc=br
+departmentNumber: Energy Dev
+mail: pleite@esss.com
+
