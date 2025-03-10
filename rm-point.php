@@ -58,7 +58,7 @@ if (empty($currentYear)) {
 $nameInput = ['$txtEnt1', '$txtEnt2', '$txtSai1', '$txtSai2'];
 $dayIgnore = ['DOM', 'SÁB'];
 
-$host = 'http://localhost:35921';
+$host = 'http://localhost:35543';
 
 $capabilities = DesiredCapabilities::chrome();
 
@@ -109,7 +109,7 @@ foreach($elements as $element){
             $value = $entrada1 = "{$entryTime}:". rand(10,15);
         }
         if(str_contains($name, '$txtSai1')){
-            $value = $saida1 = '12:'. rand(10,15);
+            $value = $saida1 = '12:'. rand(0,15);
         }
         if(str_contains($name, '$txtEnt2')){
             $value = $entrada2 = '12:'.rand(45,59);
@@ -117,7 +117,7 @@ foreach($elements as $element){
         if(str_contains($name, '$txtSai2')){
             $dtIni1 = date_create($entrada1);
             $dtIni2 = date_create($entrada2);
-            $dtHorTrab = date_create("{$timeWork}:".rand(00,40));
+            $dtHorTrab = date_create("{$timeWork}:".rand(0,10));
 
             $diffHora = $dtHorTrab->diff(date_create($dtIni1->diff(new DateTime($saida1))->format('%H:%I')))->format("%H hours + %i minutes") ;
 
