@@ -37,6 +37,11 @@ $timeWork = readline("Enter the time work in hour (HH): ");
 $currentMonth = readline("Enter the current month (MM): ");
 $currentYear = readline("Enter the current year (YYYY): ");
 
+$port = readline("Enter the chrome port (default 4444): ");
+if (empty($port)) {
+    $port = 4444;
+}
+
 // Set default values if not provided
 if (empty($user)) {
     $user = 'aisotton';
@@ -58,14 +63,14 @@ if (empty($currentYear)) {
 $nameInput = ['$txtEnt1', '$txtEnt2', '$txtSai1', '$txtSai2'];
 $dayIgnore = ['DOM', 'SÁB'];
 
-$host = 'http://localhost:35543';
+$host = "http://localhost:{$port}";
 
 $capabilities = DesiredCapabilities::chrome();
 
 $driver = RemoteWebDriver::create($host, $capabilities);
 
 $daysInMonth = cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear);
-$url = 'https://portal.esss.co/Corpore.Net/Main.aspx?dtFim='.$daysInMonth.'%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00&MasterCaptionForAnnex='.urlencode('´').'1200+-+ANDERSON+NEGRINI+ISOTTON'.urlencode('´').'&Data=01%2f01%2f0001+00%3a00%3a00&ActionParameters=StaticFilter%3aCodColigada'.urlencode('|').'1'.urlencode('|').'Chapa'.urlencode('|').'1200&Coligada=1&ActionID=PtoatFunActionWeb&Origem=EspelhoCartao&dtIni=01%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00&ShowMode=3&AnnexKeyValues=1%3b1200%3b01%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00%3b'.$daysInMonth.'%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00&Chapa=1200';
+$url = 'https://portal.esss.com/Corpore.Net/Main.aspx?dtFim='.$daysInMonth.'%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00&MasterCaptionForAnnex='.urlencode('´').'1200+-+ANDERSON+NEGRINI+ISOTTON'.urlencode('´').'&Data=01%2f01%2f0001+00%3a00%3a00&ActionParameters=StaticFilter%3aCodColigada'.urlencode('|').'1'.urlencode('|').'Chapa'.urlencode('|').'1200&Coligada=1&ActionID=PtoatFunActionWeb&Origem=EspelhoCartao&dtIni=01%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00&ShowMode=3&AnnexKeyValues=1%3b1200%3b01%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00%3b'.$daysInMonth.'%2f'.$currentMonth.'%2f'.$currentYear.'+00%3a00%3a00&Chapa=1200';
 
 $driver->get($url);
 
@@ -77,7 +82,7 @@ $driver->findElement(WebDriverBy::name('btnLogin'))
     ->click();
 
     
-$driver->findElement(WebDriverBy::name('GB$txtJustificativa'))
+$driver->findElement(WebDriverBy::cssSelector('#GB_txtJustificativa'))
     ->sendKeys('Home office');
     
 
@@ -105,11 +110,26 @@ foreach($elements as $element){
             continue;
         }
 
+        // Verificar se o campo já tem valor
+        $currentValue = $element->getAttribute('value');
+        if (!empty($currentValue)) {
+            // Se já tem valor, usar esse valor nas variáveis para os cálculos
+            if(str_contains($name, '$txtEnt1')){
+                $entrada1 = $currentValue;
+            } else if(str_contains($name, '$txtSai1')){
+                $saida1 = $currentValue;
+            } else if(str_contains($name, '$txtEnt2')){
+                $entrada2 = $currentValue;
+            }
+            continue; // Pular para o próximo campo sem sobrescrever
+        }
+
+        // Código para gerar e preencher valores apenas se o campo estiver vazio
         if(str_contains($name, '$txtEnt1')){
             $value = $entrada1 = "{$entryTime}:". rand(10,15);
         }
         if(str_contains($name, '$txtSai1')){
-            $value = $saida1 = '12:'. rand(0,15);
+            $value = $saida1 = '12:'. sprintf('%02d', rand(0,15));
         }
         if(str_contains($name, '$txtEnt2')){
             $value = $entrada2 = '12:'.rand(45,59);
