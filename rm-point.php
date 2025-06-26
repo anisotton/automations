@@ -39,7 +39,7 @@ $currentYear = readline("Enter the current year (YYYY): ");
 
 $port = readline("Enter the chrome port (default 4444): ");
 if (empty($port)) {
-    $port = 4444;
+    $port = 36497;
 }
 
 // Set default values if not provided
@@ -82,11 +82,12 @@ $driver->findElement(WebDriverBy::name('btnLogin'))
     ->click();
 
     
-$driver->findElement(WebDriverBy::cssSelector('#GB_txtJustificativa'))
+$driver->findElement(WebDriverBy::id('GB_txtJustificativa'))
     ->sendKeys('Home office');
     
 
 $elements = $driver->findElements(WebDriverBy::cssSelector("#GB_pnGridBatidas input"));
+
 $array = [];
 $aux = 0;
 $today = date_create();
