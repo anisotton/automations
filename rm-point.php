@@ -14,8 +14,83 @@ function str_contains_array($haystack, array $needles) {
     return false;
 }
 
+function detectChromeVersion(): ?string {
+    $candidates = ['/opt/google/chrome/chrome', 'google-chrome', 'google-chrome-stable', 'chromium-browser', 'chromium'];
+    foreach ($candidates as $bin) {
+        $output = shell_exec("{$bin} --version 2>/dev/null");
+        if ($output && preg_match('/\d+\.\d+\.\d+\.\d+/', $output, $m)) {
+            return $m[0];
+        }
+    }
+    return null;
+}
 
-putenv('WEBDRIVER_CHROME_DRIVER=C:\cmder\chromedriver.exe');
+function ensureChromedriverInstalled(): void {
+    if (trim(shell_exec('which chromedriver 2>/dev/null') ?? '')) {
+        return;
+    }
+
+    echo "\nChromeDriver não encontrado no sistema.\n";
+
+    $version = detectChromeVersion();
+    if (!$version) {
+        echo "Não foi possível detectar a versão do Chrome. Instale o ChromeDriver manualmente.\n";
+        exit(1);
+    }
+
+    echo "Chrome detectado: {$version}\n";
+    $confirm = readline("Deseja instalar o ChromeDriver {$version} agora? [s/N]: ");
+    if (strtolower(trim($confirm)) !== 's') {
+        echo "Instalação cancelada. Execute novamente após instalar o ChromeDriver.\n";
+        exit(1);
+    }
+
+    $zipPath = '/tmp/chromedriver.zip';
+    $url = "https://storage.googleapis.com/chrome-for-testing-public/{$version}/linux64/chromedriver-linux64.zip";
+
+    echo "Baixando ChromeDriver {$version}...\n";
+    shell_exec("wget -q '{$url}' -O {$zipPath} 2>&1");
+
+    if (!file_exists($zipPath) || filesize($zipPath) === 0) {
+        echo "Falha ao baixar o ChromeDriver. Verifique a conexão e tente novamente.\n";
+        exit(1);
+    }
+
+    echo "Instalando...\n";
+    shell_exec("unzip -o {$zipPath} -d /tmp/ 2>&1");
+    shell_exec("sudo mv /tmp/chromedriver-linux64/chromedriver /usr/local/bin/chromedriver && sudo chmod +x /usr/local/bin/chromedriver 2>&1");
+    shell_exec("rm -f {$zipPath} && rm -rf /tmp/chromedriver-linux64");
+
+    if (!trim(shell_exec('which chromedriver 2>/dev/null') ?? '')) {
+        echo "Falha na instalação. Instale manualmente:\n";
+        echo "  sudo mv /tmp/chromedriver-linux64/chromedriver /usr/local/bin/chromedriver\n";
+        echo "  sudo chmod +x /usr/local/bin/chromedriver\n";
+        exit(1);
+    }
+
+    echo "ChromeDriver instalado com sucesso!\n";
+}
+
+function ensureChromedriverRunning(int $port): void {
+    $conn = @fsockopen('localhost', $port, $errno, $errstr, 1);
+    if ($conn) {
+        fclose($conn);
+        return;
+    }
+
+    echo "ChromeDriver não está em execução na porta {$port}. Iniciando...\n";
+    shell_exec("chromedriver --port={$port} > /tmp/chromedriver.log 2>&1 &");
+    sleep(2);
+
+    $conn = @fsockopen('localhost', $port, $errno, $errstr, 2);
+    if (!$conn) {
+        echo "Falha ao iniciar o ChromeDriver. Verifique o log: /tmp/chromedriver.log\n";
+        exit(1);
+    }
+
+    fclose($conn);
+    echo "ChromeDriver iniciado na porta {$port}.\n";
+}
 
 use DateInterval;
 use DateTime;
@@ -23,6 +98,8 @@ use Facebook\WebDriver\Remote\DesiredCapabilities;
 use Facebook\WebDriver\Remote\RemoteWebDriver;
 
 require_once('vendor/autoload.php');
+
+ensureChromedriverInstalled();
 
 $user = readline("Enter your username: ");
 
@@ -39,7 +116,7 @@ $currentYear = readline("Enter the current year (YYYY): ");
 
 $port = readline("Enter the chrome port (default 4444): ");
 if (empty($port)) {
-    $port = 36497;
+    $port = 4444;
 }
 
 // Set default values if not provided
@@ -64,6 +141,8 @@ $nameInput = ['$txtEnt1', '$txtEnt2', '$txtSai1', '$txtSai2'];
 $dayIgnore = ['DOM', 'SÁB'];
 
 $host = "http://localhost:{$port}";
+
+ensureChromedriverRunning($port);
 
 $capabilities = DesiredCapabilities::chrome();
 
